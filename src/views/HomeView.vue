@@ -14,6 +14,7 @@ const settings = useSettingsStore()
 const progress = useProgressStore()
 const { bank, categories, loading, error, load, loadQuestions } = useQuestionBank()
 const selectedCategories = ref<string[]>([])
+const subjectsOpen = ref(true)
 const hasSavedQuiz = ref(false)
 const selectedQuestionTypes = ref<QuestionType[]>(['single', 'multiple'])
 const questionPreset = ref<'' | '10' | '20' | '50' | '100' | 'all' | 'custom'>('')
@@ -112,8 +113,14 @@ function resumeQuiz() {
         </button>
 
         <div class="mt-6">
-          <div class="mb-3 flex justify-between text-sm font-bold text-slate-600"><span>選擇科目</span><button class="text-ink underline" @click="selectedCategories = selectedCategories.length === categories.length ? [] : categories.map(c => c.id)">{{ selectedCategories.length === categories.length ? '全部取消' : '全選' }}</button></div>
-          <div class="grid max-h-80 gap-2 overflow-y-auto pr-1 sm:grid-cols-2">
+          <div class="mb-3 flex items-center gap-3 border-b border-slate-100 pb-3 text-sm font-bold text-slate-600">
+            <button type="button" class="flex flex-1 items-center justify-between gap-3 text-left" :aria-expanded="subjectsOpen" @click="subjectsOpen = !subjectsOpen">
+              <span>選擇科目 <span class="ml-1 text-xs font-medium text-slate-400">已選 {{ selectedCategories.length }} / {{ categories.length }}</span></span>
+              <span class="text-xs text-slate-400 transition-transform" :class="subjectsOpen ? 'rotate-180' : ''">▼</span>
+            </button>
+            <button type="button" class="shrink-0 text-ink underline" @click="selectedCategories = selectedCategories.length === categories.length ? [] : categories.map(c => c.id)">{{ selectedCategories.length === categories.length ? '全部取消' : '全選' }}</button>
+          </div>
+          <div v-show="subjectsOpen" class="grid max-h-80 grid-cols-2 gap-2 overflow-y-auto pr-1">
             <button v-for="category in categories" :key="category.id" class="flex items-center justify-between rounded-xl border px-3 py-3 text-left text-sm transition" :class="selectedCategories.includes(category.id) ? 'border-ink bg-ink text-white' : 'border-slate-200 bg-white hover:border-ink/50'" @click="toggleCategory(category.id)">
               <span class="font-bold">{{ category.name }}</span><span class="opacity-70">{{ category.count }}</span>
             </button>
