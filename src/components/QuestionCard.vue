@@ -11,6 +11,11 @@ const props = defineProps<{
 
 const emit = defineEmits<{ select: [optionId: string] }>()
 const inputType = computed(() => props.question.type === 'single' ? 'radio' : 'checkbox')
+const isCorrect = computed(() => {
+  const selected = [...props.selected].sort()
+  const answers = [...props.question.answers].sort()
+  return selected.length === answers.length && selected.every((id, index) => id === answers[index])
+})
 
 function optionState(id: string) {
   if (!props.revealed) return props.selected.includes(id) ? 'selected' : 'idle'
@@ -60,9 +65,12 @@ function optionState(id: string) {
       </label>
     </div>
 
-    <div v-if="revealed" class="mt-6 rounded-2xl border border-amber-200 bg-amber-50/70 p-4">
-      <p class="text-sm font-bold text-amber-900">正確答案：{{ question.answers.join('、') }}</p>
-      <p v-if="question.explanation" class="mt-2 text-sm leading-relaxed text-amber-950/75">{{ question.explanation }}</p>
+    <div v-if="revealed" class="mt-6 border-l-4 p-4" :class="isCorrect ? 'border-success bg-emerald-50' : 'border-danger bg-red-50'">
+      <p class="text-base font-black" :class="isCorrect ? 'text-success' : 'text-danger'">{{ isCorrect ? '答對了' : '答錯了' }}</p>
+      <p v-if="question.type === 'multiple' && !isCorrect" class="mt-1 text-xs font-semibold text-slate-500">複選題必須選對全部答案，少選或多選皆不計分。</p>
+      <p class="mt-2 text-sm font-bold text-slate-700">你的答案：{{ selected.join('、') || '未作答' }}</p>
+      <p class="mt-1 text-sm font-bold text-success">正確答案：{{ question.answers.join('、') }}</p>
+      <p v-if="question.explanation" class="mt-2 text-sm leading-relaxed text-slate-600">{{ question.explanation }}</p>
     </div>
   </article>
 </template>
