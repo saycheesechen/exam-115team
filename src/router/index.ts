@@ -1,14 +1,18 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '@/views/HomeView.vue'
+import QuizView from '@/views/QuizView.vue'
+import ResultView from '@/views/ResultView.vue'
+import WrongBookView from '@/views/WrongBookView.vue'
+import HistoryView from '@/views/HistoryView.vue'
 
 const router = createRouter({
   history: createWebHashHistory(),
   routes: [
     { path: '/', name: 'home', component: HomeView },
-    { path: '/quiz', name: 'quiz', component: () => import('@/views/QuizView.vue') },
-    { path: '/result', name: 'result', component: () => import('@/views/ResultView.vue') },
-    { path: '/wrong-book', name: 'wrong-book', component: () => import('@/views/WrongBookView.vue') },
-    { path: '/history', name: 'history', component: () => import('@/views/HistoryView.vue') },
+    { path: '/quiz', name: 'quiz', component: QuizView },
+    { path: '/result', name: 'result', component: ResultView },
+    { path: '/wrong-book', name: 'wrong-book', component: WrongBookView },
+    { path: '/history', name: 'history', component: HistoryView },
   ],
   scrollBehavior: () => ({ top: 0 }),
 })
