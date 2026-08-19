@@ -3,9 +3,11 @@ import { computed, onMounted, onUnmounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import QuestionCard from '@/components/QuestionCard.vue'
 import { useQuizStore } from '@/stores/quiz'
+import { useProgressStore } from '@/stores/progress'
 
 const router = useRouter()
 const quiz = useQuizStore()
+const progress = useProgressStore()
 const selected = computed(() => quiz.currentQuestion ? quiz.answers[quiz.currentQuestion.id] ?? [] : [])
 const revealed = computed(() => Boolean(quiz.currentQuestion && quiz.config?.mode === 'practice' && quiz.isSubmitted(quiz.currentQuestion.id)))
 const now = ref(Date.now())
@@ -21,6 +23,12 @@ const timerText = computed(() => {
   const seconds = remainingSeconds.value % 60
   return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`
 })
+const currentRating = computed(() => quiz.currentQuestion ? progress.questionRatings[quiz.currentQuestion.id] ?? 0 : 0)
+
+function setRating(rating: number) {
+  if (!quiz.currentQuestion) return
+  progress.setQuestionRating(quiz.currentQuestion.id, currentRating.value === rating ? 0 : rating)
+}
 
 onMounted(() => {
   if (!quiz.questions.length && !quiz.restore()) router.replace('/')
@@ -61,6 +69,11 @@ function leave() {
       </div>
 
       <div class="panel">
+        <div class="mb-5 flex items-center justify-end gap-2 border-b border-slate-100 pb-4">
+          <span class="mr-1 text-xs font-semibold text-slate-400">題目星等</span>
+          <button v-for="star in 3" :key="star" type="button" class="text-2xl leading-none transition hover:scale-110 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-500" :class="star <= currentRating ? 'text-gold' : 'text-slate-200 hover:text-amber-300'" :aria-label="`設定為 ${star} 星`" :aria-pressed="star <= currentRating" @click="setRating(star)">★</button>
+          <button v-if="currentRating" type="button" class="ml-1 text-xs font-semibold text-slate-400 underline hover:text-slate-600" @click="setRating(currentRating)">清除</button>
+        </div>
         <QuestionCard :question="quiz.currentQuestion" :selected="selected" :revealed="revealed" :disabled="revealed" @select="quiz.select" />
         <div class="mt-8 flex flex-wrap justify-between gap-3 border-t border-slate-200 pt-5">
           <button class="btn-secondary" :disabled="quiz.currentIndex === 0" @click="quiz.goTo(quiz.currentIndex - 1)">上一題</button>
