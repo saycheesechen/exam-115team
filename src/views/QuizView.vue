@@ -24,6 +24,26 @@ const timerText = computed(() => {
   return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`
 })
 const currentRating = computed(() => quiz.currentQuestion ? progress.questionRatings[quiz.currentQuestion.id] ?? 0 : 0)
+const paginationItems = computed<Array<number | string>>(() => {
+  const total = quiz.questions.length
+  if (total <= 7) return Array.from({ length: total }, (_, index) => index)
+
+  const visible = new Set([0, total - 1])
+  for (let index = quiz.currentIndex - 1; index <= quiz.currentIndex + 1; index += 1) {
+    if (index >= 0 && index < total) visible.add(index)
+  }
+  if (quiz.currentIndex <= 2) [1, 2, 3].forEach((index) => visible.add(index))
+  if (quiz.currentIndex >= total - 3) [total - 4, total - 3, total - 2].forEach((index) => visible.add(index))
+
+  const pages = [...visible].sort((a, b) => a - b)
+  const items: Array<number | string> = []
+  pages.forEach((page, index) => {
+    const previous = pages[index - 1]
+    if (index > 0 && page - previous > 1) items.push(`ellipsis-${previous}-${page}`)
+    items.push(page)
+  })
+  return items
+})
 
 function setRating(rating: number) {
   if (!quiz.currentQuestion) return
@@ -93,8 +113,14 @@ function leave() {
       </div>
 
       <div class="mt-6 panel p-4 sm:p-5">
-        <div class="grid grid-cols-8 gap-2 sm:grid-cols-10">
-          <button v-for="(question, index) in quiz.questions" :key="question.id" class="aspect-square rounded-lg text-xs font-bold transition" :class="index === quiz.currentIndex ? 'bg-gold text-ink ring-2 ring-ink' : quiz.answers[question.id]?.length ? 'bg-ink text-white' : 'bg-slate-100 text-slate-500 hover:bg-slate-200'" @click="quiz.goTo(index)">{{ index + 1 }}</button>
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <p class="text-xs font-bold text-slate-500">題目導覽</p>
+          <nav class="flex items-center gap-1" aria-label="題目導覽">
+            <template v-for="item in paginationItems" :key="item">
+              <span v-if="typeof item === 'string'" class="grid size-9 place-items-center text-sm text-slate-400">…</span>
+              <button v-else type="button" class="grid size-9 place-items-center border text-xs font-bold transition" :class="item === quiz.currentIndex ? 'z-10 border-ink bg-gold text-ink ring-1 ring-ink' : quiz.answers[quiz.questions[item].id]?.length ? 'border-ink bg-ink text-white' : 'border-slate-200 bg-white text-slate-500 hover:bg-slate-100'" :aria-label="`前往第 ${item + 1} 題`" :aria-current="item === quiz.currentIndex ? 'page' : undefined" @click="quiz.goTo(item)">{{ item + 1 }}</button>
+            </template>
+          </nav>
         </div>
       </div>
     </section>
