@@ -8,6 +8,7 @@ interface SavedProgress {
   wrongQuestionIds: string[]
   history: QuizResult[]
   questionRatings: Record<string, number>
+  questionNotes: Record<string, string>
 }
 
 export const useProgressStore = defineStore('progress', () => {
@@ -15,6 +16,7 @@ export const useProgressStore = defineStore('progress', () => {
   const wrongQuestionIds = ref(saved.wrongQuestionIds)
   const history = ref(saved.history)
   const questionRatings = ref(saved.questionRatings)
+  const questionNotes = ref(saved.questionNotes)
   const averageScore = computed(() => history.value.length
     ? Math.round(history.value.reduce((sum, item) => sum + item.percentage, 0) / history.value.length)
     : 0)
@@ -46,21 +48,28 @@ export const useProgressStore = defineStore('progress', () => {
     else questionRatings.value[questionId] = normalized
   }
 
-  watch([wrongQuestionIds, history, questionRatings], () => {
+  function setQuestionNote(questionId: string, note: string) {
+    const normalized = note.slice(0, 200)
+    if (normalized.trim()) questionNotes.value[questionId] = normalized
+    else delete questionNotes.value[questionId]
+  }
+
+  watch([wrongQuestionIds, history, questionRatings, questionNotes], () => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify({
       wrongQuestionIds: wrongQuestionIds.value,
       history: history.value,
       questionRatings: questionRatings.value,
+      questionNotes: questionNotes.value,
     }))
   }, { deep: true })
 
-  return { wrongQuestionIds, history, questionRatings, averageScore, recordWrong, clearWrong, clearAllWrong, addResult, clearHistory, setQuestionRating }
+  return { wrongQuestionIds, history, questionRatings, questionNotes, averageScore, recordWrong, clearWrong, clearAllWrong, addResult, clearHistory, setQuestionRating, setQuestionNote }
 })
 
 function loadProgress(): SavedProgress {
   try {
-    return { wrongQuestionIds: [], history: [], questionRatings: {}, ...JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '{}') }
+    return { wrongQuestionIds: [], history: [], questionRatings: {}, questionNotes: {}, ...JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '{}') }
   } catch {
-    return { wrongQuestionIds: [], history: [], questionRatings: {} }
+    return { wrongQuestionIds: [], history: [], questionRatings: {}, questionNotes: {} }
   }
 }

@@ -29,6 +29,10 @@ function setRating(rating: number) {
   if (!quiz.currentQuestion) return
   progress.setQuestionRating(quiz.currentQuestion.id, currentRating.value === rating ? 0 : rating)
 }
+function updateNote(event: Event) {
+  if (!quiz.currentQuestion) return
+  progress.setQuestionNote(quiz.currentQuestion.id, (event.target as HTMLTextAreaElement).value)
+}
 
 onMounted(() => {
   if (!quiz.questions.length && !quiz.restore()) router.replace('/')
@@ -73,6 +77,10 @@ function leave() {
           <span class="mr-1 text-xs font-semibold text-slate-400">題目星等</span>
           <button v-for="star in 3" :key="star" type="button" class="text-2xl leading-none transition hover:scale-110 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-500" :class="star <= currentRating ? 'text-gold' : 'text-slate-200 hover:text-amber-300'" :aria-label="`設定為 ${star} 星`" :aria-pressed="star <= currentRating" @click="setRating(star)">★</button>
           <button v-if="currentRating" type="button" class="ml-1 text-xs font-semibold text-slate-400 underline hover:text-slate-600" @click="setRating(currentRating)">清除</button>
+        </div>
+        <div class="mb-6">
+          <div class="mb-2 flex items-center justify-between gap-3"><label :for="`note-${quiz.currentQuestion.id}`" class="text-xs font-bold text-slate-500">自訂筆記</label><span class="text-xs text-slate-400">{{ (progress.questionNotes[quiz.currentQuestion.id] ?? '').length }} / 200</span></div>
+          <textarea :id="`note-${quiz.currentQuestion.id}`" :value="progress.questionNotes[quiz.currentQuestion.id] ?? ''" maxlength="200" rows="2" class="w-full resize-y border border-slate-200 bg-white px-3 py-2 text-sm leading-6 text-slate-700 outline-none focus:border-ink" placeholder="記下易錯觀念、口訣或補充說明…" @input="updateNote" />
         </div>
         <QuestionCard :question="quiz.currentQuestion" :selected="selected" :revealed="revealed" :disabled="revealed" @select="quiz.select" />
         <div class="mt-8 flex flex-wrap justify-between gap-3 border-t border-slate-200 pt-5">
