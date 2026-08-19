@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #17324d;
+  --color-ink-light: #244b6d;
+  --color-gold: #d5ad61;
+  --color-paper: #fbf8f0;
+  --color-mist: #eaf2f7;
+  --color-success: #21835a;
+  --color-danger: #bd3f3f;
+  --font-sans: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+
+:root { color: #263443; background: #eef3f6; font-family: var(--font-sans); }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, a, input { -webkit-tap-highlight-color: transparent; }
+
+@layer components {
+  .page-shell { @apply mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-12; }
+  .panel { @apply rounded-3xl border border-white/70 bg-white/85 p-5 shadow-xl shadow-slate-900/5 backdrop-blur sm:p-7; }
+  .nav-link { @apply rounded-lg px-3 py-2 transition hover:bg-white/10 hover:text-white; }
+  .btn-primary { @apply inline-flex items-center justify-center rounded-xl bg-ink px-5 py-3 font-bold text-white shadow-lg shadow-ink/15 transition hover:-translate-y-0.5 hover:bg-ink-light disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:translate-y-0; }
+  .btn-secondary { @apply inline-flex items-center justify-center rounded-xl border border-slate-300 bg-white px-5 py-3 font-bold text-ink transition hover:border-ink hover:bg-mist; }
+  .eyebrow { @apply text-xs font-bold uppercase tracking-[0.22em] text-ink-light; }
+}

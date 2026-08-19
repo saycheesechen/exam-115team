@@ -1,0 +1,31 @@
+{
+  "name": "exam-115-team",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "convert": "python3 scripts/convert_docs.py",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "4.3.3",
+    "@vueuse/core": "14.4.0",
+    "pinia": "4.0.3",
+    "tailwindcss": "4.3.3",
+    "vue": "3.5.41",
+    "vue-router": "5.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "6.0.8",
+    "@types/node": "24.10.0",
+    "@vue/test-utils": "2.4.11",
+    "jsdom": "30.0.1",
+    "typescript": "5.9.3",
+    "vite": "8.2.1",
+    "vitest": "4.1.10",
+    "vue-tsc": "3.3.10"
+  }
+}

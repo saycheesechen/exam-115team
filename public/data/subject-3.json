@@ -1,0 +1,5397 @@
+{
+  "category": {
+    "id": "subject-3",
+    "name": "外匯",
+    "count": 205,
+    "singleCount": 164,
+    "multipleCount": 41
+  },
+  "questionCount": 205,
+  "questions": [
+    {
+      "id": "subject-3-001",
+      "category": "外匯",
+      "number": 1,
+      "type": "single",
+      "question": "依現行規定，在中華民國境內辦理",
+      "options": [
+        {
+          "id": "A",
+          "text": "美金一萬元"
+        },
+        {
+          "id": "B",
+          "text": "美金五十萬元"
+        },
+        {
+          "id": "C",
+          "text": "新臺幣五十萬元 以上等值外匯收支或交易之資金所有者或需求者，應依「外匯收支或交易申報辦法」申報。〔外匯收支或交易申報辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-002",
+      "category": "外匯",
+      "number": 2,
+      "type": "single",
+      "question": "匯出、入匯款之匯款分類，申報匯款性質，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "辦理匯出匯款居住民依結購外匯之資金用途、非居住民應依結購外匯之資金來源"
+        },
+        {
+          "id": "B",
+          "text": "辦理匯入匯款居住民應依結售外匯之資金來源、非居住民依結售外匯之資金用途"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔銀行業輔導客戶申報外匯收支或交易應注意事項〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-003",
+      "category": "外匯",
+      "number": 3,
+      "type": "single",
+      "question": "凡在我國境內居住，未滿十八歲之自然人，其每筆結匯金額未達新臺幣",
+      "options": [
+        {
+          "id": "A",
+          "text": "三千元"
+        },
+        {
+          "id": "B",
+          "text": "一萬元"
+        },
+        {
+          "id": "C",
+          "text": "五十萬元 等值外幣者，指定銀行得於查驗結匯人身分文件後，逕行辦理結匯。 〔銀行業輔導客戶申報外匯收支或交易應注意事項〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-004",
+      "category": "外匯",
+      "number": 4,
+      "type": "single",
+      "question": "軍政機關申請結購進口外匯或匯出匯款時，金額在美金一百萬元以下者，",
+      "options": [
+        {
+          "id": "A",
+          "text": "填妥外匯收支或交易申報書，逕行辦理結購"
+        },
+        {
+          "id": "B",
+          "text": "報由主管機關核轉財政部核准後辦理"
+        },
+        {
+          "id": "C",
+          "text": "報經央行核准後辦理。 〔 軍政機關外匯審核準則〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-005",
+      "category": "外匯",
+      "number": 5,
+      "type": "single",
+      "question": "境外非中華民國法人（非居住民法人）辦理結匯時，申報書應填列事項，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "中華民國境內代表人之身分證照號碼"
+        },
+        {
+          "id": "B",
+          "text": "中華民國境內代理人之身分證照號碼"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔銀行業輔導客戶申報外匯收支或交易應注意事項〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-006",
+      "category": "外匯",
+      "number": 6,
+      "type": "single",
+      "question": "外國公司在中華民國境內依法辦理設置之在臺代表人辦事處辦理結匯時，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "限匯入結售在臺無營運收入之辦公費用"
+        },
+        {
+          "id": "B",
+          "text": "每筆不超過等值十萬美元"
+        },
+        {
+          "id": "C",
+          "text": "須檢附主管機關核准函。 〔外匯收支或交易申報辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-007",
+      "category": "外匯",
+      "number": 7,
+      "type": "single",
+      "question": "銀行業受理依「華僑回國投資條例」及「外國人投資條例」之僑外股本投資結匯申報案件，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "每筆不超過等值十萬美元，可利用規定結匯額度"
+        },
+        {
+          "id": "B",
+          "text": "每筆超過等值十萬美元者，應確認有關主管機關核准函"
+        },
+        {
+          "id": "C",
+          "text": "無論金額大小，均應確認有關主管機關核准函。 〔銀行業輔導客戶申報外匯收支或交易應注意事項〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-008",
+      "category": "外匯",
+      "number": 8,
+      "type": "single",
+      "question": "違反管理外匯條例第6條之1之規定，故意不為申報或申報不實者",
+      "options": [
+        {
+          "id": "A",
+          "text": "處新臺幣三萬元以上，六十萬元以下罰鍰"
+        },
+        {
+          "id": "B",
+          "text": "處新臺幣三百萬元以下罰鍰"
+        },
+        {
+          "id": "C",
+          "text": "處以按行為時匯率折算金額二倍以下之罰鍰。 〔管理外匯條例〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-009",
+      "category": "外匯",
+      "number": 9,
+      "type": "single",
+      "question": "買入外國票據應注意之事項，下列何者為是？（A）提示期限以不超過發票日期一年為原則（B）除收兌旅行支票外，應作本行利害關係人查詢(L0032)交易及查詢全金控利害關係人(授信類)資料後始得買入（C）大小寫金額不符，不予買入",
+      "options": [
+        {
+          "id": "A",
+          "text": "BC"
+        },
+        {
+          "id": "B",
+          "text": "AC"
+        },
+        {
+          "id": "C",
+          "text": "ABC。 〔光票買入及託收標準作業流程SOP〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-010",
+      "category": "外匯",
+      "number": 10,
+      "type": "single",
+      "question": "託收國外票據，以不超過發票日起多久為原則",
+      "options": [
+        {
+          "id": "A",
+          "text": "3個月"
+        },
+        {
+          "id": "B",
+          "text": "6個月"
+        },
+        {
+          "id": "C",
+          "text": "1年。 〔光票買入及託收標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-011",
+      "category": "外匯",
+      "number": 11,
+      "type": "single",
+      "question": "買入美加地區美金支票退票時，其逾期利息按買入匯款解付日至還款日之天數減去",
+      "options": [
+        {
+          "id": "A",
+          "text": "十二日"
+        },
+        {
+          "id": "B",
+          "text": "十日"
+        },
+        {
+          "id": "C",
+          "text": "七日， 再按掛牌遠期信用狀利率核算。 〔 本行外匯業務收費一覽表〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-012",
+      "category": "外匯",
+      "number": 12,
+      "type": "single",
+      "question": "外國票據以託收處理時，應繕製匯寄書",
+      "options": [
+        {
+          "id": "A",
+          "text": "Collection letter"
+        },
+        {
+          "id": "B",
+          "text": "Cash collection"
+        },
+        {
+          "id": "C",
+          "text": "Cash letter 連同票據逕寄國外代收銀行或存匯銀行，請代為洽收票款。 〔光票買入及託收標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-013",
+      "category": "外匯",
+      "number": 13,
+      "type": "single",
+      "question": "營業單位在外幣現鈔買、賣業務匯率被授權優惠之幅度，美元現鈔為牌告匯率加減五分內，美元以外之其他掛牌外幣現鈔則在加減多少範圍內自行核准承作？",
+      "options": [
+        {
+          "id": "A",
+          "text": "千分之一"
+        },
+        {
+          "id": "B",
+          "text": "千分之二"
+        },
+        {
+          "id": "C",
+          "text": "千分之三。 〔102.8.26國業字第10200026981號〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-014",
+      "category": "外匯",
+      "number": 14,
+      "type": "single",
+      "question": "買入光票因係先將票款墊付給客戶，再委託國外通匯銀行代收入帳，是一種授信行為具有風險，辦理時應注意",
+      "options": [
+        {
+          "id": "A",
+          "text": "發票銀行之信用"
+        },
+        {
+          "id": "B",
+          "text": "申請人之資信及光票性質"
+        },
+        {
+          "id": "C",
+          "text": "付款銀行之信用。 〔本行買入外幣光票處理要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-015",
+      "category": "外匯",
+      "number": 15,
+      "type": "single",
+      "question": "指定銀行受理客戶即期或遠期大額結匯交易，受理個人、團體",
+      "options": [
+        {
+          "id": "A",
+          "text": "十萬美元以上或等值外幣"
+        },
+        {
+          "id": "B",
+          "text": "五十萬美元以上或等值外幣"
+        },
+        {
+          "id": "C",
+          "text": "一百萬美元以上或等值外幣之結購、結售外匯，應利用「中央銀行外匯資料申報系統」，將相關資料傳送至中央銀行外匯資料處理系統。 〔銀行業辦理外匯業務管理辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-016",
+      "category": "外匯",
+      "number": 16,
+      "type": "single",
+      "question": "指定銀行受理客戶即期或遠期大額結匯交易，受理公司、行號",
+      "options": [
+        {
+          "id": "A",
+          "text": "一百萬美元以上或等值外幣"
+        },
+        {
+          "id": "B",
+          "text": "五十萬美元以上或等值外幣"
+        },
+        {
+          "id": "C",
+          "text": "一百五十萬美元以上或等值外幣 之結購、結售外匯，應利用「中央銀行外匯資料申報系統」，將相關資料傳送至中央銀行外匯資料處理系統。 〔銀行業辦理外匯業務管理辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-017",
+      "category": "外匯",
+      "number": 17,
+      "type": "single",
+      "question": "有關票匯之兌付，何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "倘未收到票匯通知書camt.107電文或經端末交易查詢無資訊者，仍可逕行解付"
+        },
+        {
+          "id": "B",
+          "text": "毋需注意該匯票有無辦理掛失止付(Cheque Cancellation or Stop Request)"
+        },
+        {
+          "id": "C",
+          "text": "匯票付款行如非本行者，應按照「買入光票」或「光票託收」方式辦理。 〔外匯匯入匯款標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-018",
+      "category": "外匯",
+      "number": 18,
+      "type": "single",
+      "question": "票據背面，除受款人背書外，應加蓋本行擔保背書章，其主要用意為何?",
+      "options": [
+        {
+          "id": "A",
+          "text": "保證存入抬頭人帳戶內"
+        },
+        {
+          "id": "B",
+          "text": "本行對於受款人背書負有認定之責，因此要確實核對受款人的身分證件、基本登記資料並請受款人當面背書以防背書偽造"
+        },
+        {
+          "id": "C",
+          "text": "向票據代收行說明票據之提示行名稱及交易參考編號。 〔光票買入及託收標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-019",
+      "category": "外匯",
+      "number": 19,
+      "type": "single",
+      "question": "對懸帳未銷之「匯出匯款—國外」（如票匯），逾期多久以上，付款行仍未解付，亦未經匯款人申請退匯者，應轉列「其他應付款—逾期戶－外匯業務」",
+      "options": [
+        {
+          "id": "A",
+          "text": "半年"
+        },
+        {
+          "id": "B",
+          "text": "1年"
+        },
+        {
+          "id": "C",
+          "text": "15年。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-020",
+      "category": "外匯",
+      "number": 20,
+      "type": "single",
+      "question": "本行收到pacs.008時，下列處理程序，何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "只要是pacs.008，不論內容如何記載，均可據以製發匯入匯款通知書"
+        },
+        {
+          "id": "B",
+          "text": "<RmtInf><Ustrd>電文附言與交易性質不一致時，毋須進一步瞭解匯款性質"
+        },
+        {
+          "id": "C",
+          "text": "pacs.008原始電文顯示於<head:PssblDplct>True</head:PssblDplct>字樣，則應先查明是否為重覆電文。 〔外匯匯入匯款標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-021",
+      "category": "外匯",
+      "number": 21,
+      "type": "single",
+      "question": "SWIFT電報匯入匯款，有效付款日應以",
+      "options": [
+        {
+          "id": "A",
+          "text": "國外電報發電日（ISSUING DATE，<CreDt>）"
+        },
+        {
+          "id": "B",
+          "text": "起息日（VALUE DATE，<IntrBksttlmDt>）"
+        },
+        {
+          "id": "C",
+          "text": "受款人領款日 為準。 〔外匯業務處理手冊〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-022",
+      "category": "外匯",
+      "number": 22,
+      "type": "single",
+      "question": "外匯定期存單7天、14天、21天期者到期而未提取，如於到期日後",
+      "options": [
+        {
+          "id": "A",
+          "text": "二個營業日"
+        },
+        {
+          "id": "B",
+          "text": "七個營業日"
+        },
+        {
+          "id": "C",
+          "text": "十個營業日 內辦理續存，得自原到期日起息。 〔本行外匯存款辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-023",
+      "category": "外匯",
+      "number": 23,
+      "type": "single",
+      "question": "有關辦理一個月以上期別外匯定期存款之續存手續，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "以轉存日牌告利率為準"
+        },
+        {
+          "id": "B",
+          "text": "於到期日後14日以內辦理轉期續存者，自原到期日起息"
+        },
+        {
+          "id": "C",
+          "text": "轉存次數以5次為限。〔本行外匯存款辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-024",
+      "category": "外匯",
+      "number": 24,
+      "type": "single",
+      "question": "外匯綜合存款之質借利率，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "依質借幣別六個月期牌告存款利率(美元存款採大額存款牌告利率)加一點五個百分點計之"
+        },
+        {
+          "id": "B",
+          "text": "外匯經辦單位得視申請質借人與本行往來情形，於年息百分之零點五範圍內酌予減讓"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是 但均不得低於本行於市場拆借資金成本另加計一個百分點之稅後利率。 〔本行外匯綜合存款辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-025",
+      "category": "外匯",
+      "number": 25,
+      "type": "single",
+      "question": "凡涉及本行「存放銀行同業─國外」帳戶進扣帳之外匯交易，除匯出及匯入交易符合可自動通報外，其每筆金額在美金十萬元（含）以上或其他外幣等值美金五萬元（含）以上者，須逐筆以",
+      "options": [
+        {
+          "id": "A",
+          "text": "F3500"
+        },
+        {
+          "id": "B",
+          "text": "F3501"
+        },
+        {
+          "id": "C",
+          "text": "F0212 傳輸，以利資金之調撥。 〔86.12.17國管營字第26/1207號函、87.5.22國管營字第2-6/2993號函及97.7.16財清字第09700024301號函、外匯業務操作手冊〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-026",
+      "category": "外匯",
+      "number": 26,
+      "type": "single",
+      "question": "本行DBU外匯綜合存款可質借幣別計有",
+      "options": [
+        {
+          "id": "A",
+          "text": "美金、港幣、英鎊、日圓、歐元"
+        },
+        {
+          "id": "B",
+          "text": "美金、港幣、澳幣、日圓、歐元"
+        },
+        {
+          "id": "C",
+          "text": "美金、英鎊、澳幣、日圓、歐元 等五種。 〔本行外匯綜合存款辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-027",
+      "category": "外匯",
+      "number": 27,
+      "type": "single",
+      "question": "匯出匯款案件轉列「其他應付款─逾期戶－外匯業務（票匯、信匯）」已逾十五年者，下列會計作業處理何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "轉列 雜項收入─懸帳轉銷"
+        },
+        {
+          "id": "B",
+          "text": "轉列應付帳款－退匯（票匯）"
+        },
+        {
+          "id": "C",
+          "text": "仍列其他應付款─逾期戶（票匯、信匯）。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-028",
+      "category": "外匯",
+      "number": 28,
+      "type": "single",
+      "question": "申報義務人委託其他個人代辦新臺幣結匯申報時，應以",
+      "options": [
+        {
+          "id": "A",
+          "text": "委託人"
+        },
+        {
+          "id": "B",
+          "text": "受託人"
+        },
+        {
+          "id": "C",
+          "text": "承辦銀行 之名義填報，受託人應檢附委託書、委託人及受託人之身分證明文件。 〔外匯收支或交易申報辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-029",
+      "category": "外匯",
+      "number": 29,
+      "type": "single",
+      "question": "營業單位發現客戶持偽（變）造外國幣券來行兌換，下列處理方式何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "經收顧客持兌之外國幣券發現有偽（變）造幣券時，除當面向持兌人說明係偽（變）造幣券外，應加蓋『偽（變）造作廢』章，並經持兌人同意後，將原件截留，掣給收據"
+        },
+        {
+          "id": "B",
+          "text": "持兌之偽（變）造外國幣券總值在美金貳佰元以上或持兌之偽（變）造外國幣券總值未達美金貳佰元，且持兌人情形可疑或不同意經辦機構截留致無法處理者，應立刻記明持兌人之真實姓名、國籍、職業及住址，並報請警察機關偵辦"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔偽造變造外國幣券處理辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-030",
+      "category": "外匯",
+      "number": 30,
+      "type": "single",
+      "question": "下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "於非營業時間發送任何電文，皆需在SWALLOW系統經2個不同的有權人覆核、放行才可去電"
+        },
+        {
+          "id": "B",
+          "text": "客戶持國外匯款人提供之「UETR」，分行僅可於SWALLOW系統查詢是否有來電"
+        },
+        {
+          "id": "C",
+          "text": "本行目前僅pacs.008、pacs.009cov適用「gpi功能」。 〔109.6.30國通字第10900025371號函、外匯端末系統(SWIFT gpi)操作說明、SWIFT 電文整合平台系統操作手冊〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-031",
+      "category": "外匯",
+      "number": 31,
+      "type": "single",
+      "question": "匯入匯款電文為下列何者情況時，應先查證該筆款項確實入帳並留存相關證明(例如進帳的對帳單)做為傳票附件後始進行解款事宜？",
+      "options": [
+        {
+          "id": "A",
+          "text": "發報電文銀行為本行存同行且與該筆匯入款項之入帳行相同"
+        },
+        {
+          "id": "B",
+          "text": "發報電文銀行為本行通匯行但非該筆匯入款項之入帳行"
+        },
+        {
+          "id": "C",
+          "text": "電文來自財金公司清算系統。 〔外匯匯入匯款標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-032",
+      "category": "外匯",
+      "number": 32,
+      "type": "single",
+      "question": "有關端末連線工作站SWIFT MT來電筆數之控管，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "分行每營業日列印之SWIFT來電電文筆數及序號應與當日列印之H0105相符，如有不符，應查明是否漏印等原因"
+        },
+        {
+          "id": "B",
+          "text": "分行除於端末連線工作站注意有無漏印電文等異常外，尚應注意在AML系統中是否有來電被疑似命中制裁名單，但尚未由主管於AML系統接受(ACCEPT)放行"
+        },
+        {
+          "id": "C",
+          "text": "主管於AML系統拒絕(REJECT)或取消(CANCEL)後，分行端末就能收到電文。 〔96.12.28國通字第09600065871號函及107.10.15國通字第10700037971號函、國內分行SWIFT電文收發SOP〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-033",
+      "category": "外匯",
+      "number": 33,
+      "type": "single",
+      "question": "若國內分行於端末連線工作站發送SWIFT MT電文後，查詢H02-01「中心當日發送電文明細查詢」，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "若AML狀態欄顯示空白，表示該電文無須送AML系統自動掃描"
+        },
+        {
+          "id": "B",
+          "text": "若AML狀態欄顯示「C」(AMLCLOSE)，表示該電文送AML掃描時，電文送AML系統的功能被關閉"
+        },
+        {
+          "id": "C",
+          "text": "AML系統異常，分行審慎評估後，電文仍需緊急發送時，分行可於SWALLOW系統執行電文重送AML系統或BYPASS AML作業。 〔107.10.15國通字第10700037971號函、國內分行SWIFT電文收發SOP〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-034",
+      "category": "外匯",
+      "number": 34,
+      "type": "single",
+      "question": "有關本行外幣可轉讓定期存單(以下簡稱外幣NCD)之敘述，下列何者為是？(A)外幣NCD屬外匯存款，亦為票券金融管理法所稱之短期票券。(B)發行形式：採無實體方式發行。(C)發行面額：以美元10萬元、歐元10萬元、澳幣10萬元、人民幣50萬元及日圓500萬元之倍數發行之。(D)發行期限：最短為一個月，最長不得逾一年",
+      "options": [
+        {
+          "id": "A",
+          "text": "AB"
+        },
+        {
+          "id": "B",
+          "text": "ABC"
+        },
+        {
+          "id": "C",
+          "text": "ABD 〔104.12.31國業字第10400052371號函、105.11.1銀國際乙字第10500038711號函〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-035",
+      "category": "外匯",
+      "number": 35,
+      "type": "single",
+      "question": "本行外匯定期存款採行",
+      "options": [
+        {
+          "id": "A",
+          "text": "浮動利率"
+        },
+        {
+          "id": "B",
+          "text": "固定利率"
+        },
+        {
+          "id": "C",
+          "text": "得由存戶選擇浮動或固定利率 計息。 〔本行外匯存款辦法〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-036",
+      "category": "外匯",
+      "number": 36,
+      "type": "single",
+      "question": "臨時性法人、團體客戶辦理達新臺幣(含等值外幣)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3萬元"
+        },
+        {
+          "id": "B",
+          "text": "5萬元"
+        },
+        {
+          "id": "C",
+          "text": "50萬元 以上之單筆現金收或付或換鈔交易時（多筆顯有關聯之通貨交易合計達該等值金額以上時，亦同），須徵提「法人、團體聲明書（防制洗錢及打擊資恐專用）」。〔107年4月13日國業字第10700012201號〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-037",
+      "category": "外匯",
+      "number": 37,
+      "type": "single",
+      "question": "法人如公司戶、商業（行號）及團體等買賣人民幣現鈔規定為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "每次買賣人民幣現鈔之限額為人民幣2萬元"
+        },
+        {
+          "id": "B",
+          "text": "禁止購買"
+        },
+        {
+          "id": "C",
+          "text": "無相關額度限制。 〔臺灣銀行DBU客戶辦理人民幣業務問答集〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-038",
+      "category": "外匯",
+      "number": 38,
+      "type": "single",
+      "question": "客戶回售本行出售之美國運通旅行支票，每人每日可回售之金額不得逾等值美金",
+      "options": [
+        {
+          "id": "A",
+          "text": "USD25,000"
+        },
+        {
+          "id": "B",
+          "text": "USD50,000"
+        },
+        {
+          "id": "C",
+          "text": "無金額限制。 〔104.11.26國業字第10450013251號〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-039",
+      "category": "外匯",
+      "number": 39,
+      "type": "single",
+      "question": "指定銀行辦理大陸地區經許可之直接投資匯款，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "應於主管機關原核准投資文件等加註結匯金額、日期並簽章"
+        },
+        {
+          "id": "B",
+          "text": "個案累積投資金額在一百萬美元（含）以下者，得逕行受理投資人匯出投資款至大陸地區，不須確認經濟部核准投資文件"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔銀行業受理對大陸地區匯出匯款及匯入匯款申報案件應確認事項〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-040",
+      "category": "外匯",
+      "number": 40,
+      "type": "single",
+      "question": "客戶申請票匯退匯時，除下列何種匯票外，應先查明該款項是否仍列帳於「匯出匯款－國外」科目，再請匯款人於票據背書後連同原始收據繳回原票，同時拍發SWIFT camt.108(或MT 111)通知國外解款行註銷該匯票？",
+      "options": [
+        {
+          "id": "A",
+          "text": "SOLA CHECK"
+        },
+        {
+          "id": "B",
+          "text": "TRS"
+        },
+        {
+          "id": "C",
+          "text": "CRS。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-041",
+      "category": "外匯",
+      "number": 41,
+      "type": "single",
+      "question": "保兌銀行之責任，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "開狀銀行不履行義務時，保兌銀行始負其責任"
+        },
+        {
+          "id": "B",
+          "text": "對受益人負有不可撤銷的與獨立的兌付或讓購的責任"
+        },
+        {
+          "id": "C",
+          "text": "保兌銀行可對出口商行使追索權。 〔UCP 600第8條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-042",
+      "category": "外匯",
+      "number": 42,
+      "type": "single",
+      "question": "受益人對於信用狀修改書之接受或拒絕應予知會，如受益人怠於知會，則符合該信用狀及尚待接受之任何修改書之提示，將視為受益人",
+      "options": [
+        {
+          "id": "A",
+          "text": "不接受該修改書之通知，自此刻起信用狀並無修改"
+        },
+        {
+          "id": "B",
+          "text": "接受該修改書之知會，自此刻起信用狀並即予修改"
+        },
+        {
+          "id": "C",
+          "text": "接受部份修改書之通知，自此刻起信用狀部份修改生效。 〔UCP 600第10條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-043",
+      "category": "外匯",
+      "number": 43,
+      "type": "single",
+      "question": "信用狀可在任何銀行使用者，任何銀行為",
+      "options": [
+        {
+          "id": "A",
+          "text": "保兌銀行"
+        },
+        {
+          "id": "B",
+          "text": "轉讓銀行"
+        },
+        {
+          "id": "C",
+          "text": "指定銀行。 〔UCP 600第2條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-044",
+      "category": "外匯",
+      "number": 44,
+      "type": "single",
+      "question": "如電傳載明〝明細後送〞，則該項電傳將",
+      "options": [
+        {
+          "id": "A",
+          "text": "視為可憑使用之信用狀"
+        },
+        {
+          "id": "B",
+          "text": "視為可憑使用之修改書"
+        },
+        {
+          "id": "C",
+          "text": "不視為可憑使用之信用狀或修改書。 〔UCP 600第11條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-045",
+      "category": "外匯",
+      "number": 45,
+      "type": "single",
+      "question": "開狀銀行如利用通知銀行之服務向受益人為信用狀之通知時，須利用",
+      "options": [
+        {
+          "id": "A",
+          "text": "不同銀行"
+        },
+        {
+          "id": "B",
+          "text": "相同銀行"
+        },
+        {
+          "id": "C",
+          "text": "押匯銀行 之服務為修改書之通知。 〔UCP 600第9條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-046",
+      "category": "外匯",
+      "number": 46,
+      "type": "single",
+      "question": "審查單據之標準，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "信用狀未要求之單據，將不予理會，並可退還提示人"
+        },
+        {
+          "id": "B",
+          "text": "依信用狀本文、單據本身及國際標準銀行實務審閱時，單據本身上下文、單據彼此間及單據與信用狀間之資料，無須完全一致，但不得互相牴觸"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第14條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-047",
+      "category": "外匯",
+      "number": 47,
+      "type": "single",
+      "question": "兌付包含",
+      "options": [
+        {
+          "id": "A",
+          "text": "即期付款和延期付款"
+        },
+        {
+          "id": "B",
+          "text": "承兌"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第2條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-048",
+      "category": "外匯",
+      "number": 48,
+      "type": "single",
+      "question": "求償銀行如未能自補償銀行獲得補償時，其所發生之利息須由",
+      "options": [
+        {
+          "id": "A",
+          "text": "開狀銀行"
+        },
+        {
+          "id": "B",
+          "text": "押匯銀行"
+        },
+        {
+          "id": "C",
+          "text": "補償銀行 負責。 〔UCP 600第13條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-049",
+      "category": "外匯",
+      "number": 49,
+      "type": "single",
+      "question": "除信用狀另有規定外，補償銀行之費用應由",
+      "options": [
+        {
+          "id": "A",
+          "text": "押匯銀行"
+        },
+        {
+          "id": "B",
+          "text": "開狀銀行"
+        },
+        {
+          "id": "C",
+          "text": "通知銀行 負擔。 〔UCP 600第13條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-050",
+      "category": "外匯",
+      "number": 50,
+      "type": "single",
+      "question": "除單據另有表明外，具有何者性質之單據，銀行將認其為正本而予以接受",
+      "options": [
+        {
+          "id": "A",
+          "text": "顯示由單據簽發人親手書寫、打字、打孔或蓋章"
+        },
+        {
+          "id": "B",
+          "text": "顯示係製作在單據簽發人之原始用箋上"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第17條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-051",
+      "category": "外匯",
+      "number": 51,
+      "type": "single",
+      "question": "信用狀要求運送單據、保險單據及商業發票以外之單據時，如信用狀未規定該等單據係由何人簽發及其措辭或其資料內容，在何種條件下，銀行將就所提示者照單接受",
+      "options": [
+        {
+          "id": "A",
+          "text": "其內容顯示符合所需單據之功能"
+        },
+        {
+          "id": "B",
+          "text": "與所提示之任何其他規定之單據彼此不相牴觸"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第14條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-052",
+      "category": "外匯",
+      "number": 52,
+      "type": "single",
+      "question": "除信用狀另有規定外，銀行將",
+      "options": [
+        {
+          "id": "A",
+          "text": "可"
+        },
+        {
+          "id": "B",
+          "text": "不可"
+        },
+        {
+          "id": "C",
+          "text": "視情況 接受載有簽發日期早於信用狀開發日期之單據，但以該單據係於信用狀及統一慣例所定期限內提示者為限。 〔UCP 600第14條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-053",
+      "category": "外匯",
+      "number": 53,
+      "type": "single",
+      "question": "提單有〝intended vessel〞時，須於提單上以裝載註記（on board notation）表明",
+      "options": [
+        {
+          "id": "A",
+          "text": "貨物業已裝載之日期即可"
+        },
+        {
+          "id": "B",
+          "text": "裝載該等貨物之船名即可"
+        },
+        {
+          "id": "C",
+          "text": "裝運日期及實際船舶之名稱。 〔UCP 600第20條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-054",
+      "category": "外匯",
+      "number": 54,
+      "type": "single",
+      "question": "若提單未表明信用狀敘明之裝載港為裝載港，即使提單以預先印定措辭表明貨物業已裝載於標名之船舶，仍須以裝載註記（on board notation）表明",
+      "options": [
+        {
+          "id": "A",
+          "text": "裝載港即可"
+        },
+        {
+          "id": "B",
+          "text": "裝載船名即可"
+        },
+        {
+          "id": "C",
+          "text": "裝載港、裝運日期及船舶名稱。 〔UCP600第20條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-055",
+      "category": "外匯",
+      "number": 55,
+      "type": "single",
+      "question": "如信用狀要求提示傭船提單，銀行將接受下述何種性質之單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "包含任何載明其係受傭船契約規範者且就其表面顯示業經船長或船東或傭船人或代替或代表船長或船東或傭船人之標名代理人簽署"
+        },
+        {
+          "id": "B",
+          "text": "表明貨物業已於信用狀敘明之裝載港裝運於標名之船舶"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第22條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-056",
+      "category": "外匯",
+      "number": 56,
+      "type": "single",
+      "question": "下列何者為是?(A)出口押匯額度建檔應輸入F3501（核定外匯額度—新約／換約），如有保證人，於輸入L3102（從債務人資料登錄/解除）後，再執行L0159（從債務人資料查詢），相關輸入及查詢資料須列印供主管覆核。(B)出口押匯於接獲開狀銀行之承兌通知及到期日時，應於E5000承兌到期日註記。(C)出口押匯拒付案件之催理應陳副理核定或轉陳經理核定",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "BC"
+        },
+        {
+          "id": "C",
+          "text": "ABC。 〔辦理出口押匯標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-057",
+      "category": "外匯",
+      "number": 57,
+      "type": "single",
+      "question": "如信用狀未要求在航空運送單據上註記實際裝運日期時，如仍有表明該日期之特殊註記，應以",
+      "options": [
+        {
+          "id": "A",
+          "text": "簽發日期"
+        },
+        {
+          "id": "B",
+          "text": "註記之日期"
+        },
+        {
+          "id": "C",
+          "text": "飛行班次及日期欄內之日期 為其裝運日期。 〔UCP 600第23條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-058",
+      "category": "外匯",
+      "number": 58,
+      "type": "single",
+      "question": "航空運送單據之功能，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "物權證書"
+        },
+        {
+          "id": "B",
+          "text": "貨物收據"
+        },
+        {
+          "id": "C",
+          "text": "運送契約。 〔國貿實務〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-059",
+      "category": "外匯",
+      "number": 59,
+      "type": "single",
+      "question": "有關本行辦理出口押匯案件，以下敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "受理出口押匯案件，應人工設簿並登記收件時間、公司名稱、信用狀號碼及金額後，再將押匯單據分發給各單據審核人員"
+        },
+        {
+          "id": "B",
+          "text": "須逐案填寫「外匯交易審查檢視表(進出口專用)」"
+        },
+        {
+          "id": "C",
+          "text": "外匯主管辦理出口押匯案件核章時，應確實核對信用狀背面之背書並於已押匯金額處蓋章；會計人員應核對該筆信用狀可用餘額，並於可用餘額處蓋章。 〔出口業務標準作業流程SOP〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-060",
+      "category": "外匯",
+      "number": 60,
+      "type": "single",
+      "question": "若信用狀規定之運送單據為” A non-negotiable copy of a bill of lading consigned to order of shipper and indicated the shipment date”，而未敘明提示期限，則相關文件應於何時提示始不構成晚提示？",
+      "options": [
+        {
+          "id": "A",
+          "text": "裝運日後之21個曆日"
+        },
+        {
+          "id": "B",
+          "text": "裝運日後之21個銀行營業日"
+        },
+        {
+          "id": "C",
+          "text": "信用狀有效期限內。 〔UCP 600第14條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-061",
+      "category": "外匯",
+      "number": 61,
+      "type": "single",
+      "question": "除信用狀特別授權外，下列何種保險單據將不予接受？",
+      "options": [
+        {
+          "id": "A",
+          "text": "由保險公司或保險人所簽發之保險單據"
+        },
+        {
+          "id": "B",
+          "text": "由保險公司或保險人之代理人所簽發之保險單據"
+        },
+        {
+          "id": "C",
+          "text": "由保險經紀人所簽發之投保通知書。〔UCP 600第28條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-062",
+      "category": "外匯",
+      "number": 62,
+      "type": "single",
+      "question": "有關本行外匯單摺及匯票之管理，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "櫃員向單摺保管櫃員領用單摺時，應立即詳實登載於「外匯存摺、存單、匯票領用紀錄表」，該紀錄表於使用後應保管6個月"
+        },
+        {
+          "id": "B",
+          "text": "每日營業終了後，保管櫃員務必以「Z0135」(重要單摺庫存明細查詢)交易查詢，列印重要單摺庫存明細並確實盤點無誤"
+        },
+        {
+          "id": "C",
+          "text": "會計人員應每月不定期再次清點外匯部門已領取之空白存摺、存單及匯票等，並註記於「重要單摺庫存明細查詢Z0135」妥善保管3個月備查。 〔106.5.25國業字第10600017771號函〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-063",
+      "category": "外匯",
+      "number": 63,
+      "type": "single",
+      "question": "如信用狀未以包裝單位或個別件數規定數量，且動支之總金額未逾信用狀金額，則貨物之數量在未逾",
+      "options": [
+        {
+          "id": "A",
+          "text": "3﹪"
+        },
+        {
+          "id": "B",
+          "text": "5﹪"
+        },
+        {
+          "id": "C",
+          "text": "10﹪ 上下之差額係屬容許。 〔UCP 600第30條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-064",
+      "category": "外匯",
+      "number": 64,
+      "type": "single",
+      "question": "含一套以上運送單據之提示，下列何者將不認為部分裝運？表明自",
+      "options": [
+        {
+          "id": "A",
+          "text": "同一運輸工具起運且為同一航次，如表明同一裝運日期縱目的地不同"
+        },
+        {
+          "id": "B",
+          "text": "同一運輸工具起運且為同一航次，如表明同一目的地縱裝運日期不同"
+        },
+        {
+          "id": "C",
+          "text": "同一運輸工具起運且為同一航次，如表明同一裝載港縱目的地不同。 〔UCP 600第31條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-065",
+      "category": "外匯",
+      "number": 65,
+      "type": "single",
+      "question": "若信用狀修改書規定”This amendment shall enter into force unless rejected by the beneficiary within 14 days after the issuing date of this amendment”，則",
+      "options": [
+        {
+          "id": "A",
+          "text": "受益人必須在14日內表示拒絕或接受，超過14日修改書自動失效"
+        },
+        {
+          "id": "B",
+          "text": "因受益人未在14日內表示拒絕，修改書自動生效"
+        },
+        {
+          "id": "C",
+          "text": "依據受益人提示之文件是否符合修改書內容而決定修改書是否生效。 〔UCP 600第10條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-066",
+      "category": "外匯",
+      "number": 66,
+      "type": "single",
+      "question": "受理客戶申請SOLA匯票掛失止付，應核對申請人身分證件及原始收據後，拍發SWIFT camt.108(或MT111)電文向國外付款行要求掛失止付，同時電腦作掛失止付交易，俟國外付款行回電確認止付後，再作退匯通知交易將該筆「匯出匯款－國外」帳轉入「其他應付款－票據掛失止付備付款」，應於多久後將款項退還申請人？",
+      "options": [
+        {
+          "id": "A",
+          "text": "6個月"
+        },
+        {
+          "id": "B",
+          "text": "1年"
+        },
+        {
+          "id": "C",
+          "text": "2年。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-067",
+      "category": "外匯",
+      "number": 67,
+      "type": "single",
+      "question": "信用狀裝運期間之期日用語，如：〝to 〞、 〝until 〞、〝till 〞、 〝from 〞等字及其他類似意義之文字，將解為",
+      "options": [
+        {
+          "id": "A",
+          "text": "包括所提及之期日"
+        },
+        {
+          "id": "B",
+          "text": "不包括所提及之期日"
+        },
+        {
+          "id": "C",
+          "text": "未規定。 〔UCP 600第3條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-068",
+      "category": "外匯",
+      "number": 68,
+      "type": "single",
+      "question": "辦理信用狀轉讓，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "信用狀金額及單價得予以減少"
+        },
+        {
+          "id": "B",
+          "text": "信用狀有效期限及提示期間得予以縮短"
+        },
+        {
+          "id": "C",
+          "text": "保險單據之投保百分比得予以減少，以符合信用狀規定之投保金額。 〔UCP 600第38條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-069",
+      "category": "外匯",
+      "number": 69,
+      "type": "single",
+      "question": "如信用狀被轉讓予甲、乙二個第二受益人，其中第二受益人甲拒絕修改書（如：信用狀修改要求提示產地證明書），第二受益人乙接受修改書，第二受益人甲提示之單據未包含產地證明書時，是否構成瑕疵？",
+      "options": [
+        {
+          "id": "A",
+          "text": "不構成瑕疵"
+        },
+        {
+          "id": "B",
+          "text": "構成瑕疵"
+        },
+        {
+          "id": "C",
+          "text": "以上皆非。 〔UCP 600第38條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-070",
+      "category": "外匯",
+      "number": 70,
+      "type": "single",
+      "question": "A銀行開出一張信用狀指定B銀行為REIMBURSING BANK，則A銀行應向B銀行發出",
+      "options": [
+        {
+          "id": "A",
+          "text": "REIMBURSEMENT UNDERTAKING"
+        },
+        {
+          "id": "B",
+          "text": "REIMBURSEMENT CLAIM"
+        },
+        {
+          "id": "C",
+          "text": "REIMBURSEMENT AUTHORIZATION。 〔URR 725第2條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-071",
+      "category": "外匯",
+      "number": 71,
+      "type": "single",
+      "question": "有關「補償授權」下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "信用狀以電傳方式開出，開狀銀行應以信函方式發出補償授權"
+        },
+        {
+          "id": "B",
+          "text": "多份補償授權可集中在一份電傳中"
+        },
+        {
+          "id": "C",
+          "text": "不可將信用狀或修改書之副本以取代或附加於補償授權上，倘補償銀行接獲類此文件，將不予理會。 〔URR 725 第6條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-072",
+      "category": "外匯",
+      "number": 72,
+      "type": "single",
+      "question": "下列何者不應列明於補償授權中？",
+      "options": [
+        {
+          "id": "A",
+          "text": "求償前須預先通知開狀銀行"
+        },
+        {
+          "id": "B",
+          "text": "額外可支付金額及寬容範圍（如有者）"
+        },
+        {
+          "id": "C",
+          "text": "指定之求償銀行。 〔URR 725第6條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-073",
+      "category": "外匯",
+      "number": 73,
+      "type": "single",
+      "question": "在MT740上有L/C有效期限之規定，補償銀行對該日期",
+      "options": [
+        {
+          "id": "A",
+          "text": "視為求償之有效期限"
+        },
+        {
+          "id": "B",
+          "text": "視為求償之最後提示日期"
+        },
+        {
+          "id": "C",
+          "text": "不予理會。 〔URR 725第7條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-074",
+      "category": "外匯",
+      "number": 74,
+      "type": "single",
+      "question": "補償銀行在收到補償請求之日後最多有",
+      "options": [
+        {
+          "id": "A",
+          "text": "3個"
+        },
+        {
+          "id": "B",
+          "text": "7個"
+        },
+        {
+          "id": "C",
+          "text": "5個 銀行營業日處理該項請求。 〔URR 725第11條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-075",
+      "category": "外匯",
+      "number": 75,
+      "type": "single",
+      "question": "URC522規定，如未經銀行事先同意，貨運單據",
+      "options": [
+        {
+          "id": "A",
+          "text": "得"
+        },
+        {
+          "id": "B",
+          "text": "不得"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是 以該銀行或其指定人為受貨人。 〔URC522第10條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-076",
+      "category": "外匯",
+      "number": 76,
+      "type": "single",
+      "question": "根據URC522及我國票據法規定，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "光票託收，部分付款得予接受，但以付款地現行法律所允許，且在其所許範圍及條件內為限"
+        },
+        {
+          "id": "B",
+          "text": "部分付款後，財務單據得交付付款人"
+        },
+        {
+          "id": "C",
+          "text": "跟單託收，部分付款僅於託收指示書特別授權得予受理。 〔URC522第19條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-077",
+      "category": "外匯",
+      "number": 77,
+      "type": "single",
+      "question": "託收銀行接到拒絕付款的通知須於",
+      "options": [
+        {
+          "id": "A",
+          "text": "30天"
+        },
+        {
+          "id": "B",
+          "text": "60天"
+        },
+        {
+          "id": "C",
+          "text": "90天 內指示如何處理單據，否則提示銀行得逕行退回單據。 〔URC522第26條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-078",
+      "category": "外匯",
+      "number": 78,
+      "type": "single",
+      "question": "依「本行出口押匯額度管理辦法」規定，押匯墊款每筆融通期限最長不得超過",
+      "options": [
+        {
+          "id": "A",
+          "text": "三個月"
+        },
+        {
+          "id": "B",
+          "text": "六個月"
+        },
+        {
+          "id": "C",
+          "text": "一年。 〔臺灣銀行股份有限公司出口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-079",
+      "category": "外匯",
+      "number": 79,
+      "type": "single",
+      "question": "依「本行出口押匯額度管理辦法」規定，核定增加之臨時額度, 下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "得併入出口押匯額度內，循環使用"
+        },
+        {
+          "id": "B",
+          "text": "限於核定日起三十日內動支，且不得循環使用"
+        },
+        {
+          "id": "C",
+          "text": "限於核定日之當月動支，且不得循環使用。 〔臺灣銀行股份有限公司出口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-080",
+      "category": "外匯",
+      "number": 80,
+      "type": "single",
+      "question": "受理進口開狀應注意事項，下列何者為是?",
+      "options": [
+        {
+          "id": "A",
+          "text": "全額結匯開狀案件，應以本行為受貨人，並辦妥適當種類之保險"
+        },
+        {
+          "id": "B",
+          "text": "對於客戶欲以微小之瑕疵或信用狀以外理由主張拒付，以規避其付款責任，開狀銀行應予以婉拒"
+        },
+        {
+          "id": "C",
+          "text": "信用狀運送單據為cargo receipt，亦適用UCP600第14條C項有關包含一份正本運送單據之提示其提示期間之規定。 〔進口實務〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-081",
+      "category": "外匯",
+      "number": 81,
+      "type": "single",
+      "question": "依「本行進口押匯額度管理辦法」規定，申請人申請開發信用狀時，應於下列何者價格條件案件辦妥以本行為受益人之保險單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "CIF、CIP"
+        },
+        {
+          "id": "B",
+          "text": "C&I"
+        },
+        {
+          "id": "C",
+          "text": "FAS、FOB、CFR。 〔臺灣銀行股份有限公司進口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-082",
+      "category": "外匯",
+      "number": 82,
+      "type": "single",
+      "question": "依「臺灣銀行進口融資辦法」規定，除經核定之特殊個案外，每筆融資得視其需要核定期限，但最長不得超過",
+      "options": [
+        {
+          "id": "A",
+          "text": "六十天"
+        },
+        {
+          "id": "B",
+          "text": "一二○天"
+        },
+        {
+          "id": "C",
+          "text": "一八○天 。 〔臺灣銀行股份有限公司進口融資辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-083",
+      "category": "外匯",
+      "number": 83,
+      "type": "single",
+      "question": "信用狀項下單據，受益人如未向L/C規定之指定銀行提示，而直接向開狀銀行提示，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "原規定在指定銀行到期之有效期限、單據提示期間將變更為在開狀銀行到期"
+        },
+        {
+          "id": "B",
+          "text": "如為保兌信用狀，將喪失保兌銀行之保障，保兌條款將形同失效"
+        },
+        {
+          "id": "C",
+          "text": "開狀銀行之拒絕單據不須於收到單據後第五個營業日終了之前儘速辦理。 〔UCP 600第6、8、14條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-084",
+      "category": "外匯",
+      "number": 84,
+      "type": "single",
+      "question": "匯款pacs.008電文的匯款人相關欄位，應至少包含哪些資訊？",
+      "options": [
+        {
+          "id": "A",
+          "text": "匯款人名稱、地址"
+        },
+        {
+          "id": "B",
+          "text": "匯款人名稱、扣款帳號或可查證該項匯款之「獨立序號」"
+        },
+        {
+          "id": "C",
+          "text": "匯款人名稱、扣款帳號或可查證該項匯款之「獨立序號」、地址。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-085",
+      "category": "外匯",
+      "number": 85,
+      "type": "single",
+      "question": "信用狀規定drafts at 180 days after B/L date drawn on Issuing Bank，並指示銀行claim reimbursement from Reimbursing Bank at sight basis，則求償銀行",
+      "options": [
+        {
+          "id": "A",
+          "text": "以即期方式向補償銀行求償"
+        },
+        {
+          "id": "B",
+          "text": "提單日後180天向補償銀行求償本金"
+        },
+        {
+          "id": "C",
+          "text": "信用狀條款自相矛盾，應請開狀銀行修改。 〔外匯實務〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-086",
+      "category": "外匯",
+      "number": 86,
+      "type": "single",
+      "question": "有關外匯數位存款之性質，下列敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "屬外匯活期存款無摺戶，以零元辦理開戶"
+        },
+        {
+          "id": "B",
+          "text": "同一客戶申請開立外匯數位存款帳戶以1戶為限(已開戶且未銷戶)"
+        },
+        {
+          "id": "C",
+          "text": "可辦理臨櫃提款業務。 〔外匯數位存款帳戶開戶標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-087",
+      "category": "外匯",
+      "number": 87,
+      "type": "single",
+      "question": "有關外匯數位存款之開戶作業流程，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "客戶使用之IP位址及留存的手機號碼、電子郵件或通訊地址，如有與其他客戶相同時，務必確認原因，並註明調查結果"
+        },
+        {
+          "id": "B",
+          "text": "拒絕受理開戶案件須由主管執行「V0287電子郵件審核發送」"
+        },
+        {
+          "id": "C",
+          "text": "客戶為行員親屬並留存本行員工電子郵件信箱之案件，亦可受理其開戶。 〔外匯數位存款帳戶開戶標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-088",
+      "category": "外匯",
+      "number": 88,
+      "type": "single",
+      "question": "有關辦理自然人臨櫃申請外匯存款銷戶時(繼承案件除外)，確有遺失存摺、印鑑之情事者，得採簽立「臺灣銀行存摺類存款銷戶申請書暨同意書(自然人適用)」辦理，下列辦理情形何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "執行Q40銷戶交易，摘要欄須選擇「JMS 掛失銷戶」作業"
+        },
+        {
+          "id": "B",
+          "text": "須將銷戶申請同意書(正面)、印鑑卡(正、反面)，掃描至「身分證基本資料影像掃描開戶作業系統」妥善保存"
+        },
+        {
+          "id": "C",
+          "text": "限存款餘額未達等值新臺幣1萬元者始可受理。 〔外匯存款解約結清銷戶標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-089",
+      "category": "外匯",
+      "number": 89,
+      "type": "single",
+      "question": "本行開出一張Shipment from New York to Keelung之L/C後，進口商申請修改PRICE TERM由原來之FOB變更為CIF，則應修改那些條款？",
+      "options": [
+        {
+          "id": "A",
+          "text": "PRICE TERM 改為CIF NEW YORK，B/L改為FREIGHT COLLECT，刪除保險單據條款"
+        },
+        {
+          "id": "B",
+          "text": "PRICE TERM 改為CIF KEELUNG，B/L改為FREIGHT PREPAID，增加保險單據條款"
+        },
+        {
+          "id": "C",
+          "text": "PRICE TERM 改為CIF NEW YORK，B/L改為FREIGHT PREPAID，增加保險單據條款。 〔Incoterms 2020〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-090",
+      "category": "外匯",
+      "number": 90,
+      "type": "single",
+      "question": "辦理「副提單背書」，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "應注意債權的確保"
+        },
+        {
+          "id": "B",
+          "text": "應追蹤單據是否寄達"
+        },
+        {
+          "id": "C",
+          "text": "應向船公司換回擔保提貨書。 〔進口業務標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-091",
+      "category": "外匯",
+      "number": 91,
+      "type": "single",
+      "question": "依信用狀統一慣例規定，除信用狀另有要求外，商業發票無須簽署，當信用狀規定〝a certificate is required on the Commercial Invoice〞，則該商業發票",
+      "options": [
+        {
+          "id": "A",
+          "text": "須Dated不須Signed"
+        },
+        {
+          "id": "B",
+          "text": "不須Dated但要Signed"
+        },
+        {
+          "id": "C",
+          "text": "必須Dated & Signed。 〔UCP 600第18條及ISBP745 C10、A3、A4〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-092",
+      "category": "外匯",
+      "number": 92,
+      "type": "single",
+      "question": "依「本行辦理出口押匯及進口開狀各級主管授權額度範圍規定」，出口押匯瑕疵單據金額逾美金十萬元時，授權核准之層級為",
+      "options": [
+        {
+          "id": "A",
+          "text": "經理"
+        },
+        {
+          "id": "B",
+          "text": "業務主管"
+        },
+        {
+          "id": "C",
+          "text": "助理業務主管。 〔本行辦理出口押匯及進口開狀各級主管授權額度範圍規定〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-093",
+      "category": "外匯",
+      "number": 93,
+      "type": "single",
+      "question": "下列何者非屬信用狀統一慣例中所稱之運送單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-Negotiable Sea Waybill"
+        },
+        {
+          "id": "B",
+          "text": "Forwardersymbol 146 \\f \"Times New Roman\"s Cargo Receipt"
+        },
+        {
+          "id": "C",
+          "text": "Courier and Post Receipts。 〔UCP 600第19條～25條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-094",
+      "category": "外匯",
+      "number": 94,
+      "type": "single",
+      "question": "在信用狀交易中，買方若發現賣方有詐欺行為，可向法院申請",
+      "options": [
+        {
+          "id": "A",
+          "text": "禁止支付命令"
+        },
+        {
+          "id": "B",
+          "text": "公示催告"
+        },
+        {
+          "id": "C",
+          "text": "拍賣 又稱Injunction。 〔外匯實務〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-095",
+      "category": "外匯",
+      "number": 95,
+      "type": "single",
+      "question": "指定銀行辦理押匯後，並自補償銀行取得款項，若單據在郵寄開狀銀行中途遺失，則",
+      "options": [
+        {
+          "id": "A",
+          "text": "開狀銀行可自押匯銀行索回款項"
+        },
+        {
+          "id": "B",
+          "text": "開狀銀行不可自押匯銀行索回款項"
+        },
+        {
+          "id": "C",
+          "text": "開狀銀行即不須付款。 〔UCP 600第35條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-096",
+      "category": "外匯",
+      "number": 96,
+      "type": "single",
+      "question": "當出口商接獲國外開來信用狀且欲將部分金額轉讓給工廠，以銀行立場而言，下列何者風險最大？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Back to Back L/C"
+        },
+        {
+          "id": "B",
+          "text": "L/C Transfer"
+        },
+        {
+          "id": "C",
+          "text": "Assignment of proceeds。 〔UCP 600 第38、39條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-097",
+      "category": "外匯",
+      "number": 97,
+      "type": "single",
+      "question": "信用狀規定到期日及地點(Date and place of expiry)為2026/5/1(星期五) in Taiwan、最遲裝運日(Latest date of shipment)為2026/5/1，適逢勞動節假日銀行休業，則",
+      "options": [
+        {
+          "id": "A",
+          "text": "提示文件可延期至2026/5/4"
+        },
+        {
+          "id": "B",
+          "text": "裝運日期可為2026/5/4"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第29條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-098",
+      "category": "外匯",
+      "number": 98,
+      "type": "single",
+      "question": "開發信用狀如採 FOB 或 CFR 條件，並由買方負責投保貨物保險，除全額結匯或以定（活）期性存款十足擔保者外，為確保本行保險利益，關於保險金額及受益人之處理，下列何者為正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "保險金額應為發票金額之110%，惟信用狀如訂有金額寬容度，考量交易金額尚具浮動性，得不將寬容度納入投保金額"
+        },
+        {
+          "id": "B",
+          "text": "保險金額應為貨物價額或發票金額之110%，如信用狀訂有金額寬容度，應將增加之寬容度納入投保金額"
+        },
+        {
+          "id": "C",
+          "text": "因屬買方投保案件，保險利益歸屬買方，無須要求以本行為受益人辦理保險。 〔外匯實務〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-099",
+      "category": "外匯",
+      "number": 99,
+      "type": "single",
+      "question": "承作讓購（NEGOTIATION）的銀行一定不是",
+      "options": [
+        {
+          "id": "A",
+          "text": "通知銀行"
+        },
+        {
+          "id": "B",
+          "text": "保兌銀行"
+        },
+        {
+          "id": "C",
+          "text": "開狀銀行。 〔UCP 600第7條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-100",
+      "category": "外匯",
+      "number": 100,
+      "type": "single",
+      "question": "依「本行出口押匯額度管理辦法」規定，核定增加之臨時額度，最高在原額度多少範圍內？",
+      "options": [
+        {
+          "id": "A",
+          "text": "二分之一"
+        },
+        {
+          "id": "B",
+          "text": "三分之一"
+        },
+        {
+          "id": "C",
+          "text": "衡酌客戶當次需求，無限制。 〔臺灣銀行股份有限公司出口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-101",
+      "category": "外匯",
+      "number": 101,
+      "type": "single",
+      "question": "出口商所製作之單據，如其相互間之簽章不一致，則將",
+      "options": [
+        {
+          "id": "A",
+          "text": "構成瑕疵"
+        },
+        {
+          "id": "B",
+          "text": "不構成瑕疵"
+        },
+        {
+          "id": "C",
+          "text": "構成單據間之歧異。 〔UCP 600第14條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-102",
+      "category": "外匯",
+      "number": 102,
+      "type": "single",
+      "question": "A公司提示符合信用狀條款之單據向信用狀指定之甲銀行請求承兌，經其承兌後，卻未於到期日為付款，此時A公司",
+      "options": [
+        {
+          "id": "A",
+          "text": "將因此喪失其取得款項之權利"
+        },
+        {
+          "id": "B",
+          "text": "可另開立匯票以開狀銀行為付款人，請求其承兌"
+        },
+        {
+          "id": "C",
+          "text": "可請開狀銀行付款。 〔UCP 600第7條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-103",
+      "category": "外匯",
+      "number": 103,
+      "type": "single",
+      "question": "第一受益人憑國外開來之Master L/C，至本行申請開發Back to Back L/C，因本行通常在轉開之信用狀上會註明〝This credit is subject to the final payment of the Master Credit〞，因此本行",
+      "options": [
+        {
+          "id": "A",
+          "text": "不負任何風險"
+        },
+        {
+          "id": "B",
+          "text": "應負開狀銀行之責任"
+        },
+        {
+          "id": "C",
+          "text": "視第一受益人之信用情形而定。 〔UCP 600第7條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-104",
+      "category": "外匯",
+      "number": 104,
+      "type": "single",
+      "question": "依UCP 600之規定，Citibank, New York Branch將認其在",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seattle"
+        },
+        {
+          "id": "B",
+          "text": "Chicago"
+        },
+        {
+          "id": "C",
+          "text": "Taipei 之分行為不同之銀行（Separate Bank）。 〔UCP 600第3條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-105",
+      "category": "外匯",
+      "number": 105,
+      "type": "single",
+      "question": "開狀銀行於9月8日簽發修改書，委由通知銀行通知受益人，受益人於9月11日收到修改書，開狀銀行於",
+      "options": [
+        {
+          "id": "A",
+          "text": "9月8日起"
+        },
+        {
+          "id": "B",
+          "text": "9月11日起"
+        },
+        {
+          "id": "C",
+          "text": "受益人憑該修改書提示單據時，受該修改書不可撤銷之拘束。 〔UCP600第10條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-106",
+      "category": "外匯",
+      "number": 106,
+      "type": "single",
+      "question": "信用狀交易下，如受益人提示單據有瑕疵，而寄單銀行以〝先寄單據〞方式將單據寄交開狀銀行，俟其付款後再付予受益人，寄單銀行宜以下列何種方式敘明於Cover Letter中，以防開狀銀行將單據移往其託收部門處理，致延誤進帳? We are sending the documents",
+      "options": [
+        {
+          "id": "A",
+          "text": "for your collection"
+        },
+        {
+          "id": "B",
+          "text": "on approval basis"
+        },
+        {
+          "id": "C",
+          "text": "for your payment。 〔辦理出口押匯標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-107",
+      "category": "外匯",
+      "number": 107,
+      "type": "single",
+      "question": "開狀銀行對瑕疵單據作拒付之通知，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "應先徵詢買方之意見"
+        },
+        {
+          "id": "B",
+          "text": "得自行決定是否洽商申請人拋棄瑕疵之主張"
+        },
+        {
+          "id": "C",
+          "text": "應以電傳或其他快捷之方式為之。 〔UCP 600第16條〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-108",
+      "category": "外匯",
+      "number": 108,
+      "type": "single",
+      "question": "開狀銀行完成拒付手續後，取得對押匯銀行之對抗權，如押匯銀行已自補償銀行（Reimbursing Bank）取得款項，則開狀銀行",
+      "options": [
+        {
+          "id": "A",
+          "text": "不可要求押匯銀行返還款項"
+        },
+        {
+          "id": "B",
+          "text": "可要求補償銀行負責追償款項"
+        },
+        {
+          "id": "C",
+          "text": "不可要求補償銀行負責追償款項。 〔UCP 600第16條、URR 725第3、5條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-109",
+      "category": "外匯",
+      "number": 109,
+      "type": "single",
+      "question": "指定銀行憑國內廠商申請開發之外幣信用狀，其受益人為國內另一廠商，而且貨物輸入國與輸出國至少有一方為外國或大陸地區時，該信用狀受益人及申請人",
+      "options": [
+        {
+          "id": "A",
+          "text": "可以"
+        },
+        {
+          "id": "B",
+          "text": "不可以"
+        },
+        {
+          "id": "C",
+          "text": "未規定 申請外幣貸款。 〔94.3.22台央外柒字0940009042號函〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-110",
+      "category": "外匯",
+      "number": 110,
+      "type": "single",
+      "question": "依銀行公會「銀行間辦理出口轉押匯業務權責劃分要點」若指定押匯銀行非兼為保兌銀行時，下列何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "第一押匯銀行負審單責任，指定押匯銀行負責寄送單據"
+        },
+        {
+          "id": "B",
+          "text": "指定押匯銀行執行求償作業，第一押匯銀行負責拒付處理"
+        },
+        {
+          "id": "C",
+          "text": "指定押匯銀行負審單責任，並作拒付之處理。 〔銀行間辦理出口轉押匯業務合作要點〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-111",
+      "category": "外匯",
+      "number": 111,
+      "type": "single",
+      "question": "有關進口押匯額度之核給，以下敘述何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "政府機關、公營事業之進口押匯案件，得免訂定額度，由各營業單位主管逐筆核定辦理"
+        },
+        {
+          "id": "B",
+          "text": "申請人如提供定期存單或本行活期性存款設定質權予本行，得在存單本金金額或活期性存款金額九成範圍內由各營業單位主管核給額度"
+        },
+        {
+          "id": "C",
+          "text": "申請人實績不足或無進口實績者，其額度在等值美金四十萬元範圍內，由各營業單位主管核定辦理。 〔臺灣銀行股份有限公司進口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-112",
+      "category": "外匯",
+      "number": 112,
+      "type": "single",
+      "question": "信用狀中規定之有效期限（expiry date）是指",
+      "options": [
+        {
+          "id": "A",
+          "text": "付款"
+        },
+        {
+          "id": "B",
+          "text": "承兌"
+        },
+        {
+          "id": "C",
+          "text": "提示單據 之期限。 〔UCP 600第6條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-113",
+      "category": "外匯",
+      "number": 113,
+      "type": "single",
+      "question": "國外單據寄達時應取出提單正本向船公司換回擔保提貨書者為",
+      "options": [
+        {
+          "id": "A",
+          "text": "副提單背書案件"
+        },
+        {
+          "id": "B",
+          "text": "擔保提貨案件"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 ［進口業務標準作業流程-擔保提貨/副提單背書〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-114",
+      "category": "外匯",
+      "number": 114,
+      "type": "single",
+      "question": "出口託收的匯票付款人通常為",
+      "options": [
+        {
+          "id": "A",
+          "text": "出口商"
+        },
+        {
+          "id": "B",
+          "text": "進口商"
+        },
+        {
+          "id": "C",
+          "text": "代收銀行。 〔外匯實務〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-115",
+      "category": "外匯",
+      "number": 115,
+      "type": "single",
+      "question": "出口託收案件，海運提單〝受貨人〞欄，下列何者為宜？",
+      "options": [
+        {
+          "id": "A",
+          "text": "To order of Bank of Taiwan"
+        },
+        {
+          "id": "B",
+          "text": "To order of Shipper"
+        },
+        {
+          "id": "C",
+          "text": "To order of Collecting Bank。 〔出口託收標準作業流程(SOP)〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-116",
+      "category": "外匯",
+      "number": 116,
+      "type": "single",
+      "question": "有關外幣提款機提領，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "可自本行外匯存款帳戶提領"
+        },
+        {
+          "id": "B",
+          "text": "可採無卡提款一次性序號自本行新臺幣帳戶提領"
+        },
+        {
+          "id": "C",
+          "text": "可採無卡提款一次性序號自國內其他銀行新臺幣帳戶提領。 ［臺灣銀行股份有限公司外幣提款機作業要點］"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-117",
+      "category": "外匯",
+      "number": 117,
+      "type": "single",
+      "question": "有關匯款分類填報，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "國外銀行支付之手續費收入填報「194金融服務收入」"
+        },
+        {
+          "id": "B",
+          "text": "購買國外基金配發之股利匯入填報「441股本投資盈餘或股利」"
+        },
+        {
+          "id": "C",
+          "text": "銀行業代扣居住民之利息所得稅填報「695未有資金流動之交易」。 ［銀行業辦理外匯收支或交易資料申報問答集Q3.4.7、Q3.5.4、匯入匯款之分類及說明］"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-118",
+      "category": "外匯",
+      "number": 118,
+      "type": "single",
+      "question": "國外寄來之託收指示書載明RELEASE DOCUMENTS AGAINST ACCEPTANCE BY DRAWEE AND AVALIZATION BY YOURSELVES，則",
+      "options": [
+        {
+          "id": "A",
+          "text": "本行應憑付款人之承兌交付單據"
+        },
+        {
+          "id": "B",
+          "text": "因係要求本行附加保證之D/A案件，本行應拒絕承作"
+        },
+        {
+          "id": "C",
+          "text": "本行應憑付款人之承兌及保證書交付單據。 〔89.6.21國管業字第01320號〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-119",
+      "category": "外匯",
+      "number": 119,
+      "type": "single",
+      "question": "有關本行承作出口D/P案件，下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "海運提單之「受貨人」宜為「TO ORDER」或「TO ORDER OF SHIPPER」"
+        },
+        {
+          "id": "B",
+          "text": "出口託收拒付案件之催理毋須陳副理核定或轉陳經理核定"
+        },
+        {
+          "id": "C",
+          "text": "接獲國外拒付通知時，應即通知出口商，並於60日內指示國外如何處理單據，否則提示銀行得逕行退回單據。 〔出口託收標準作業流程(SOP)、URC522第26條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-120",
+      "category": "外匯",
+      "number": 120,
+      "type": "single",
+      "question": "下列幣別，何者非財金公司外幣結算系統匯款可承作之幣別",
+      "options": [
+        {
+          "id": "A",
+          "text": "人民幣"
+        },
+        {
+          "id": "B",
+          "text": "澳幣"
+        },
+        {
+          "id": "C",
+          "text": "加幣。 〔財金公司外幣結算系統問答集〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-121",
+      "category": "外匯",
+      "number": 121,
+      "type": "single",
+      "question": "保險單據表明承保範圍之保險最低金額為貨物之 CIF 或 CIP 價值加計10﹪，如CIF/CIP價額無法由單據認定時，銀行將以信用狀下要求辦理兌付或讓購金額之 110﹪或商業發票上貨物總額之 110﹪",
+      "options": [
+        {
+          "id": "A",
+          "text": "孰低者為準"
+        },
+        {
+          "id": "B",
+          "text": "孰高者為準"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔UCP 600第28條〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-122",
+      "category": "外匯",
+      "number": 122,
+      "type": "single",
+      "question": "有關外匯匯出匯款填報「外匯相關交易審查檢視表」的時機，下列敘述何者為非?",
+      "options": [
+        {
+          "id": "A",
+          "text": "臨櫃辦理申請人為「虛擬通貨平台及交易業務事業」之外匯匯出匯款業務"
+        },
+        {
+          "id": "B",
+          "text": "臨櫃辦理「OBU匯出匯款之受款人為個人帳戶」案件"
+        },
+        {
+          "id": "C",
+          "text": "臨時性客戶辦理達等值新臺幣三萬元以上之跨境匯款時。 〔外匯匯出匯款標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-123",
+      "category": "外匯",
+      "number": 123,
+      "type": "single",
+      "question": "在辦理開發三角貿易信用狀時，應審慎評估風險，必要時，另徵提擔保品或提高保證金成數，以加強債權保障，信用狀補償條款宜採下列何者方式？",
+      "options": [
+        {
+          "id": "A",
+          "text": "授權電報求償"
+        },
+        {
+          "id": "B",
+          "text": "授權直接扣帳"
+        },
+        {
+          "id": "C",
+          "text": "到單付款。 〔臺灣銀行進口押匯額度管理辦法第七條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-124",
+      "category": "外匯",
+      "number": 124,
+      "type": "single",
+      "question": "臨時性法人、團體客戶辦理達新臺幣(含等值外幣)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3萬元"
+        },
+        {
+          "id": "B",
+          "text": "5萬元"
+        },
+        {
+          "id": "C",
+          "text": "50萬元 以上之跨境匯款時，須徵提「法人、團體聲明書（防制洗錢及打擊資恐專用）」。 〔107年4月13日國業字第10700012201號〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-125",
+      "category": "外匯",
+      "number": 125,
+      "type": "single",
+      "question": "下列何者非受理匯出匯款時，應檢核之「交易有關對象」？",
+      "options": [
+        {
+          "id": "A",
+          "text": "為本行存同銀行之中間銀行"
+        },
+        {
+          "id": "B",
+          "text": "受款銀行"
+        },
+        {
+          "id": "C",
+          "text": "pacs.008之備註欄位(<RmtInf><Ustrd>)另有其他個人/法人名稱。 ［外匯匯出匯款標準作業流程(SOP)］"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-126",
+      "category": "外匯",
+      "number": 126,
+      "type": "single",
+      "question": "若信用狀規定”Certificate of origin issued by an official party”，則可簽發該文件者為 A.信用狀受益人 B.受益人以外之任何人 C.出口地之商會",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "AC"
+        },
+        {
+          "id": "C",
+          "text": "BC 〔UCP 600第3條〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-127",
+      "category": "外匯",
+      "number": 127,
+      "type": "single",
+      "question": "受理境外法人申請開立OBU外匯存款戶時，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "外匯定存單到期續存得豁免徵提查詢聯徵資料同意書，惟次日仍應查詢Z50"
+        },
+        {
+          "id": "B",
+          "text": "境外法人及其負責人查詢聯徵資料Z21、Z22應分別填寫同意書"
+        },
+        {
+          "id": "C",
+          "text": "查詢境外法人之聯徵資料應輸入本行OBU統編。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-128",
+      "category": "外匯",
+      "number": 128,
+      "type": "single",
+      "question": "下列關於OBU開戶標準作業流程，下列何者正確?",
+      "options": [
+        {
+          "id": "A",
+          "text": "G0053身分證列管資料查詢結果為異常或警示註記，得開立帳戶"
+        },
+        {
+          "id": "B",
+          "text": "查詢客戶身分證列管資料(G0053)，境外法人應以聯徵虛擬統編或境外個人以稅籍編號查詢是否異常或警示註記"
+        },
+        {
+          "id": "C",
+          "text": "辦理開戶及定期審查時，須於『「OBU認識客戶」之多筆帳戶管控』欄位做評估說明。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-129",
+      "category": "外匯",
+      "number": 129,
+      "type": "single",
+      "question": "下列關於本行國際金融業務分行外匯存款辦法，何者正確?",
+      "options": [
+        {
+          "id": "A",
+          "text": "客戶與本行約定定存金額美金一千萬元，存期一年又十二天，若於到期前20日解約，得依存轉當日一年期存款利率八折計息"
+        },
+        {
+          "id": "B",
+          "text": "本存款利息另依規定分離課稅"
+        },
+        {
+          "id": "C",
+          "text": "辦理開戶時，應加強瞭解客戶往來目的、帳戶用途及預期之交易活動。 〔本行國際金融業務分行外匯存款辦法〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-130",
+      "category": "外匯",
+      "number": 130,
+      "type": "single",
+      "question": "下列關於本行國際金融業務分行結清銷戶，何者正確?",
+      "options": [
+        {
+          "id": "A",
+          "text": "客戶銷戶時，轉帳提取金額達等值美金一萬元(含)以上，驗印及記帳應確實分由不同人員辦理"
+        },
+        {
+          "id": "B",
+          "text": "客戶辦理銷戶時未能提供六個月內有效之存續證明，得由負責人填寫非居住民身分之聲明書"
+        },
+        {
+          "id": "C",
+          "text": "同時受理外匯帳戶及黃金存摺之銷戶，須先執行黃金存摺銷戶。 〔OBU 外匯存款業務-外匯存款解約結清銷戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-131",
+      "category": "外匯",
+      "number": 131,
+      "type": "single",
+      "question": "依據國際金融業務條例施行細則之規定，中華民國境外之法人定義為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "依外國法律組織登記之法人，包括在中華民國境內依法辦理設立登記之分支機構"
+        },
+        {
+          "id": "B",
+          "text": "依外國法律組織登記之法人。但在中華民國境內依法辦理設立登記之分支機構不在其內"
+        },
+        {
+          "id": "C",
+          "text": "依中華民國境內法律組織登記之中華民國境外法人。 〔國際金融業務條例施行細則-金融監督管理委員會〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-132",
+      "category": "外匯",
+      "number": 132,
+      "type": "single",
+      "question": "國際金融業務分行支付利息予境外客戶時，應扣繳所得稅之稅率為",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "20%"
+        },
+        {
+          "id": "C",
+          "text": "免予扣繳。 〔國際金融業務條例-金融監督管理委員會〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-133",
+      "category": "外匯",
+      "number": 133,
+      "type": "single",
+      "question": "在本行最近三個月存款平均餘額未達等值美金五千萬元之境外A公司於5月2日在本行國際金融業務分行存入外匯定期存款一年期一百萬美元，同月10日因資金另有用途經本行同意辦理中途解約，其利息應如何給付",
+      "options": [
+        {
+          "id": "A",
+          "text": "不予計息"
+        },
+        {
+          "id": "B",
+          "text": "按其實存期間照活期存款利率八折計息"
+        },
+        {
+          "id": "C",
+          "text": "按其實存期間照七天期存款利率八折計息。 〔本行國際金融業務分行外匯存款辦法〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-134",
+      "category": "外匯",
+      "number": 134,
+      "type": "single",
+      "question": "本行外匯指定單位代辦國際金融業務分行(OBU)業務，相關約據之訂定、匯款電文之發送、客戶收據之掣發及相關帳務之處理等，應以何名義為之？",
+      "options": [
+        {
+          "id": "A",
+          "text": "本行"
+        },
+        {
+          "id": "B",
+          "text": "OBU"
+        },
+        {
+          "id": "C",
+          "text": "本行或OBU均可。 〔本行外匯指定單位代辦國際金融業務分行各項業務作業要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-135",
+      "category": "外匯",
+      "number": 135,
+      "type": "single",
+      "question": "本行國際金融業務分行客戶與本行中崙分行DBU客戶之外匯存款有沖轉需要時，應如何辦理？",
+      "options": [
+        {
+          "id": "A",
+          "text": "以匯款方式辦理"
+        },
+        {
+          "id": "B",
+          "text": "以聯行報單方式轉帳"
+        },
+        {
+          "id": "C",
+          "text": "直接轉帳。 〔本行外匯指定單位代辦國際金融業務分行各項業務作業要點〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-136",
+      "category": "外匯",
+      "number": 136,
+      "type": "single",
+      "question": "辦理本行國際金融業務分行(OBU)客戶之匯款業務，應收取之費用，下列何者為可以接受項目 ？",
+      "options": [
+        {
+          "id": "A",
+          "text": "本行營業部客戶之外匯存款兌換之新臺幣"
+        },
+        {
+          "id": "B",
+          "text": "OBU客戶之外匯存款"
+        },
+        {
+          "id": "C",
+          "text": "外幣現金。 〔本行外匯指定單位代辦國際金融業務分行各項業務作業要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-137",
+      "category": "外匯",
+      "number": 137,
+      "type": "single",
+      "question": "確認OBU境外法人客戶身分，應驗證何種文件？",
+      "options": [
+        {
+          "id": "A",
+          "text": "臺灣註冊代理人核發之法人註冊證書"
+        },
+        {
+          "id": "B",
+          "text": "臺灣註冊代理人六個月內簽發之董事職權證明書"
+        },
+        {
+          "id": "C",
+          "text": "註冊地之當地註冊代理人六個月內簽發之董事職權證明書。 〔OBU外匯存款業務-開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-138",
+      "category": "外匯",
+      "number": 138,
+      "type": "single",
+      "question": "境外法人留存其主要之營業處所住址之原則為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "應留存郵政信箱"
+        },
+        {
+          "id": "B",
+          "text": "應留存註冊地無實質營運之住址"
+        },
+        {
+          "id": "C",
+          "text": "設於免稅國家或地區之境外法人，因無實質營運，應留存控制該法人之自然人或法人實際營運處所住址或通訊住址。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-139",
+      "category": "外匯",
+      "number": 139,
+      "type": "single",
+      "question": "國際金融業務分行須遵循廣告招攬真實原則執行策略，何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "不得以浮誇不實、暗示得規避法令規定，或其他易產生誤導之廣告內容，招攬OBU外匯業務"
+        },
+        {
+          "id": "B",
+          "text": "廣告視為契約內容之一部分，亦不得約定廣告僅供參考"
+        },
+        {
+          "id": "C",
+          "text": "代辦單位因業務需要製作廣宣資料時，應依據「臺灣銀行股份有限公司從事廣告業務招攬及營業促銷活動管理須知」規定辦理，逕行製發。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-140",
+      "category": "外匯",
+      "number": 140,
+      "type": "single",
+      "question": "為加強OBU外匯單摺之內部控管，保管櫃員於何時需逐本盤點，以明責任？",
+      "options": [
+        {
+          "id": "A",
+          "text": "每週營業結束時"
+        },
+        {
+          "id": "B",
+          "text": "每月營業結束時"
+        },
+        {
+          "id": "C",
+          "text": "差假辦理空白單摺移出、移回交易時。 〔OBU外匯存款業務-開戶標準作業流程SOP〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-141",
+      "category": "外匯",
+      "number": 141,
+      "type": "single",
+      "question": "國際金融業務分行開立存款帳戶核定層級，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "非高風險客戶開戶由業務單位副主管核定"
+        },
+        {
+          "id": "B",
+          "text": "高風險客戶開戶由單位防制洗錢及打擊資恐督導主管及單位主管核定"
+        },
+        {
+          "id": "C",
+          "text": "以上皆是。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-142",
+      "category": "外匯",
+      "number": 142,
+      "type": "single",
+      "question": "依據FATF之定義，「空殼公司」為「設立但無實質營運或相關資產之公司」，「空殼公司」應符合下列何者條件？",
+      "options": [
+        {
+          "id": "A",
+          "text": "於註冊地無實體存在"
+        },
+        {
+          "id": "B",
+          "text": "無固定之營業地址，或無登記地址，亦無營業處所或辦公室實際協助相關業務者"
+        },
+        {
+          "id": "C",
+          "text": "以上兩點皆須同時符合。 〔OBU外匯存款業務─開戶標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-143",
+      "category": "外匯",
+      "number": 143,
+      "type": "single",
+      "question": "櫃員與客戶議價買賣外匯應",
+      "options": [
+        {
+          "id": "A",
+          "text": "依分行書面分層授權機制規定"
+        },
+        {
+          "id": "B",
+          "text": "為爭取業務依分行與財務部對拋機制之中價逕行與客戶議價"
+        },
+        {
+          "id": "C",
+          "text": "逐筆請示外匯主管核可。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-144",
+      "category": "外匯",
+      "number": 144,
+      "type": "single",
+      "question": "分行買賣即期外匯與財務部中價對拋機制，每日截止時間為下午",
+      "options": [
+        {
+          "id": "A",
+          "text": "三點半"
+        },
+        {
+          "id": "B",
+          "text": "三點五十分"
+        },
+        {
+          "id": "C",
+          "text": "五點。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-145",
+      "category": "外匯",
+      "number": 145,
+      "type": "single",
+      "question": "若客戶向本行買美元，下列何者為本行真正成本？",
+      "options": [
+        {
+          "id": "A",
+          "text": "本行掛牌中價"
+        },
+        {
+          "id": "B",
+          "text": "市場買價"
+        },
+        {
+          "id": "C",
+          "text": "市場賣價。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-146",
+      "category": "外匯",
+      "number": 146,
+      "type": "single",
+      "question": "單一營業單位電腦無法運作時",
+      "options": [
+        {
+          "id": "A",
+          "text": "可請聯行代登通報部位資料"
+        },
+        {
+          "id": "B",
+          "text": "恢復連線後再行處理"
+        },
+        {
+          "id": "C",
+          "text": "只能由財務部代登通報部位資料。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-147",
+      "category": "外匯",
+      "number": 147,
+      "type": "single",
+      "question": "客戶掛單交易成交後其清算匯率為",
+      "options": [
+        {
+          "id": "A",
+          "text": "成交時市場中價"
+        },
+        {
+          "id": "B",
+          "text": "本行掛牌中價"
+        },
+        {
+          "id": "C",
+          "text": "掛單匯率。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-148",
+      "category": "外匯",
+      "number": 148,
+      "type": "single",
+      "question": "一般客戶透過網路銀行與本行從事日幣對台幣之外幣買賣優惠幅度為",
+      "options": [
+        {
+          "id": "A",
+          "text": "加減三分"
+        },
+        {
+          "id": "B",
+          "text": "加減千分之三"
+        },
+        {
+          "id": "C",
+          "text": "加減千分之二。 〔本行電子銀行業務各項費用收費標準暨優惠方案〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-149",
+      "category": "外匯",
+      "number": 149,
+      "type": "single",
+      "question": "倘分行部位通報時選擇持有部位，當分行在下午三點五十分前仍未拋補時，系統將以",
+      "options": [
+        {
+          "id": "A",
+          "text": "通報時中價"
+        },
+        {
+          "id": "B",
+          "text": "最後盤掛牌中價"
+        },
+        {
+          "id": "C",
+          "text": "最後盤掛牌買賣價清算。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-150",
+      "category": "外匯",
+      "number": 150,
+      "type": "single",
+      "question": "外匯交易中心美元買賣市場報價為32.395/32.403 本行掛牌中價為32.40，若客戶欲向本行購買一百萬美元，以本行不虧本為原則之報價應為",
+      "options": [
+        {
+          "id": "A",
+          "text": "32.395"
+        },
+        {
+          "id": "B",
+          "text": "32.403"
+        },
+        {
+          "id": "C",
+          "text": "32.399。 〔本行買賣即期外匯處理要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-151",
+      "category": "外匯",
+      "number": 151,
+      "type": "single",
+      "question": "辦理國內法人客戶之衍生性金融商品交易時，下列何者不須向客戶徵提避險文件？",
+      "options": [
+        {
+          "id": "A",
+          "text": "涉及新台幣之遠期外匯交易"
+        },
+        {
+          "id": "B",
+          "text": "換匯交易(SWAP)"
+        },
+        {
+          "id": "C",
+          "text": "客戶使用避險性額度承作匯率選擇權。〔本行買賣遠期外匯/換匯作業要點、匯率選擇權交易行銷標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-152",
+      "category": "外匯",
+      "number": 152,
+      "type": "single",
+      "question": "每筆遠期外匯契約應以全額交割為原則，如有實際困難，其短少金額在不超過訂約金額",
+      "options": [
+        {
+          "id": "A",
+          "text": "3%"
+        },
+        {
+          "id": "B",
+          "text": "5%"
+        },
+        {
+          "id": "C",
+          "text": "10% 且在等值美金1萬元以內者，可視為全額交割。 〔本行買賣遠期外匯/換匯作業要點〕"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-153",
+      "category": "外匯",
+      "number": 153,
+      "type": "single",
+      "question": "依本行換匯交易作業要點規定得承作換匯交易客戶為",
+      "options": [
+        {
+          "id": "A",
+          "text": "法人"
+        },
+        {
+          "id": "B",
+          "text": "自然人"
+        },
+        {
+          "id": "C",
+          "text": "以上皆可。 〔本行買賣遠期外匯/換匯處理作業要點〕"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-154",
+      "category": "外匯",
+      "number": 154,
+      "type": "single",
+      "question": "換匯交易本質上是",
+      "options": [
+        {
+          "id": "A",
+          "text": "兩筆交割日不同的外匯買入交易"
+        },
+        {
+          "id": "B",
+          "text": "單一外匯買或賣的交易"
+        },
+        {
+          "id": "C",
+          "text": "兩筆交割日不同的外匯一買一賣交易。 〔本行買賣遠期外匯/換匯作業要點〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-155",
+      "category": "外匯",
+      "number": 155,
+      "type": "single",
+      "question": "對於何種專業屬性之衍生性金融商品法人客戶，營業單位應至少每年辦理一次客戶風險屬性評估？",
+      "options": [
+        {
+          "id": "A",
+          "text": "專業機構投資人"
+        },
+        {
+          "id": "B",
+          "text": "高淨值投資法人"
+        },
+        {
+          "id": "C",
+          "text": "總資產達新台幣一億以上之法人專業客戶及一般法人客戶。 〔營業單位申請衍生性金融商品額度標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-156",
+      "category": "外匯",
+      "number": 156,
+      "type": "single",
+      "question": "假設某筆浮動票券票面利率為三個月SOFR加120個基本點(basis point)，設定利率時所依據之三個月SOFR為1.50%，請問該期票券利率為",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.62%"
+        },
+        {
+          "id": "B",
+          "text": "2.70%"
+        },
+        {
+          "id": "C",
+          "text": "2.00% "
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-157",
+      "category": "外匯",
+      "number": 157,
+      "type": "single",
+      "question": "下類何種交易需佔用國家額度？: A-貨幣市場拆放交易 B-買入有價證券交易 C-外匯交易 D-國際聯貸",
+      "options": [
+        {
+          "id": "A",
+          "text": "AB"
+        },
+        {
+          "id": "B",
+          "text": "ABC"
+        },
+        {
+          "id": "C",
+          "text": "ABCD "
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-158",
+      "category": "外匯",
+      "number": 158,
+      "type": "single",
+      "question": "依據「台灣銀行辦理國際金融業務作業準則」規定，貨幣市場拆出交易期限以下列何者為上限？",
+      "options": [
+        {
+          "id": "A",
+          "text": "隔夜"
+        },
+        {
+          "id": "B",
+          "text": "一個月"
+        },
+        {
+          "id": "C",
+          "text": "一年 "
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-159",
+      "category": "外匯",
+      "number": 159,
+      "type": "single",
+      "question": "TAIFX3為何處銀行同業拆款平均利率？",
+      "options": [
+        {
+          "id": "A",
+          "text": "倫敦"
+        },
+        {
+          "id": "B",
+          "text": "東京"
+        },
+        {
+          "id": "C",
+          "text": "台灣"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-160",
+      "category": "外匯",
+      "number": 160,
+      "type": "single",
+      "question": "路孚特最新的TAIFX3利率，分行是否可由行內全球資訊網取得資料？",
+      "options": [
+        {
+          "id": "A",
+          "text": "不能，必須電話詢問財務部"
+        },
+        {
+          "id": "B",
+          "text": "可以，行內全球資訊網下外界資料庫之路孚特即時資訊查詢系統已可自行取得資料"
+        },
+        {
+          "id": "C",
+          "text": "無法查詢此類資料"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-161",
+      "category": "外匯",
+      "number": 161,
+      "type": "single",
+      "question": "匯率選擇權交易承做對象為",
+      "options": [
+        {
+          "id": "A",
+          "text": "自然人"
+        },
+        {
+          "id": "B",
+          "text": "法人"
+        },
+        {
+          "id": "C",
+          "text": "自然人與法人"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-162",
+      "category": "外匯",
+      "number": 162,
+      "type": "single",
+      "question": "有關衍生性金融商品客戶風險屬性評估之敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "專業機構投資人與高淨值投資法人需每年定期辦理風險屬性評估作業"
+        },
+        {
+          "id": "B",
+          "text": "法人客戶申請衍生性金融商品額度期限為兩年者，其風險屬性評估作業得每兩年辦理一次"
+        },
+        {
+          "id": "C",
+          "text": "擬承作遠匯、換匯交易以外之衍生性金融商品客戶，其風險屬性評估作業由財務部符合衍生性金融商品業務經辦資格之法金行銷人員辦理，評估完成後交由營業單位建檔並留存備查。 〔營業單位申請衍生性金融商品額度標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-163",
+      "category": "外匯",
+      "number": 163,
+      "type": "single",
+      "question": "下列叙述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "選擇權買方支付權利金，取得執行選擇權之權利"
+        },
+        {
+          "id": "B",
+          "text": "選擇權賣方支付權利金，取得執行選擇權之權利"
+        },
+        {
+          "id": "C",
+          "text": "選擇權買方支付權利金，有被執行選擇權之義務"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-164",
+      "category": "外匯",
+      "number": 164,
+      "type": "single",
+      "question": "客戶賣給本行三個月期美元買權/新台幣賣權名目本金USD1,000,000，三個月期USD/TWD匯率風險權數為4.7%，則本筆交易客戶所需信用額度為",
+      "options": [
+        {
+          "id": "A",
+          "text": "USD47,000"
+        },
+        {
+          "id": "B",
+          "text": "USD94,000"
+        },
+        {
+          "id": "C",
+          "text": "USD470,000"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-165",
+      "category": "外匯",
+      "number": 165,
+      "type": "multiple",
+      "question": "申報義務人應於檢附所填申報書及相關證明文件，經由銀行業向中央銀行申請核准後，始得辦理新臺幣結匯，有關其結匯金額下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "個人、團體每年累積結購或結售金額超過等值一千萬美元之必要性匯款"
+        },
+        {
+          "id": "B",
+          "text": "公司、行號每年累積結購或結售金額超過等值一億美元之必要性匯款"
+        },
+        {
+          "id": "C",
+          "text": "非居住民每筆結匯金額超過等值十萬美元之匯款。 〔外匯收支或交易申報辦法、中央銀行113.11.01台央外伍字第1130041114號函、113.11.05銀國際乙字第11301164411號函〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-166",
+      "category": "外匯",
+      "number": 166,
+      "type": "multiple",
+      "question": "客戶填寫外匯收支或交易申報書時，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "如為他人代填案件，仍須由申報義務人確認申報事項無誤後簽名或蓋章，以明責任"
+        },
+        {
+          "id": "B",
+          "text": "結匯性質應詳實填報，得以匯款分類編號替代之"
+        },
+        {
+          "id": "C",
+          "text": "申報書之金額不得更改，其他項目如經更改，應請申報義務人加蓋印章或由本人簽字。 〔銀行業輔導客戶申報外匯收支或交易應注意事項〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-167",
+      "category": "外匯",
+      "number": 167,
+      "type": "multiple",
+      "question": "承作自然人辦理人民幣跨境匯款至大陸地區，下列何者無法辦理？",
+      "options": [
+        {
+          "id": "A",
+          "text": "領有我國國民身分證之個人"
+        },
+        {
+          "id": "B",
+          "text": "持中華民國臺灣地區居留證者"
+        },
+        {
+          "id": "C",
+          "text": "持外國護照之外國人。 〔銀行業辦理外匯業務管理辦法第五十二條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-168",
+      "category": "外匯",
+      "number": 168,
+      "type": "multiple",
+      "question": "本行辦理買入光票業務，對於未核給申請人買入光票額度之買入限額規定，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "公司、行號或團體每筆最高限額為等值美金五萬元"
+        },
+        {
+          "id": "B",
+          "text": "自然人每筆最高限額為等值美金五千元"
+        },
+        {
+          "id": "C",
+          "text": "公營事業或政府機關每筆最高限額為等值美金十萬元。 〔本行買入外幣光票處理要點〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-169",
+      "category": "外匯",
+      "number": 169,
+      "type": "multiple",
+      "question": "下列敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "本行買入美國境外地區不流通之美鈔券(即舊版)，每1美元收取新臺幣0.3元之處理費，倘客戶提示本人原購買之結匯水單，得免收舊版處理費"
+        },
+        {
+          "id": "B",
+          "text": "美鈔以外之雜幣破污損券，得以託收方式處理，每張收取新臺幣100元之手續費"
+        },
+        {
+          "id": "C",
+          "text": "客戶持舊版美鈔券兌換國際流通之美鈔券，依本行當日牌告之美元現金買出、買入價差收取費用，每筆最低TWD100，不再加收舊版處理費。 〔臺灣銀行收兌舊版外幣現鈔、破污損券及受理託收等業務之收費標準一覽表〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-170",
+      "category": "外匯",
+      "number": 170,
+      "type": "multiple",
+      "question": "有關經由本行買入或託收之光票，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "須經票載之受款人背書"
+        },
+        {
+          "id": "B",
+          "text": "所有受理之票據在寄出前均須加蓋本行之擔保背書章"
+        },
+        {
+          "id": "C",
+          "text": "票據正反面攝影或影印存檔。 〔光票買入及託收標準作業流程〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-171",
+      "category": "外匯",
+      "number": 171,
+      "type": "multiple",
+      "question": "為避免偽鈔詐騙及加強防制洗錢，本行對於收受美金現鈔設立收受額度",
+      "options": [
+        {
+          "id": "A",
+          "text": "一般分行之櫃員對於個人戶每次收受限額為美金30,000元(含)"
+        },
+        {
+          "id": "B",
+          "text": "超過櫃員收受額度，在美金100,000元(含)以內需經營業單位主管或單位主管授權之各級主管同意"
+        },
+        {
+          "id": "C",
+          "text": "如逾美金100,000元，應透過營業部出納科以託收方式辦理，俟該等款項入帳後，再支付予客戶。 〔105.3.31國際乙字第10500011671號函〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-172",
+      "category": "外匯",
+      "number": 172,
+      "type": "multiple",
+      "question": "依本行「外匯定期存單質借作業要點」規定，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "申請質借人限原存款人，且質借幣別以原存款幣別為限"
+        },
+        {
+          "id": "B",
+          "text": "質借期限最長不得超過原存款到期日"
+        },
+        {
+          "id": "C",
+          "text": "質借額度最高不得超過存單金額之八成，且質借之外幣並應撥入該借款人之同幣別外匯活期存款帳戶。 〔本行外匯定期存單質借作業要點〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-173",
+      "category": "外匯",
+      "number": 173,
+      "type": "multiple",
+      "question": "有關外匯綜合存款業務，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "外匯綜合存款未經本行同意，不得轉讓或設定質權予第三人"
+        },
+        {
+          "id": "B",
+          "text": "外匯綜合存款戶得在原定期存款相同幣別之九成之範圍或不同幣別之八成範圍內質借"
+        },
+        {
+          "id": "C",
+          "text": "外匯市場變動激烈時，本行得暫停辦理不同幣別之質借與不同幣別間兌換之存取款。 〔本行外匯綜合存款辦法〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-174",
+      "category": "外匯",
+      "number": 174,
+      "type": "multiple",
+      "question": "指定銀行辦理大陸地區人民合法繼承或領受臺灣地區人民遺產、軍公教及公營事業機關（構）人員保險死亡給付、撫卹（慰）金、餘額退伍金及其衍生孳息之匯款，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "大陸地區人民合法繼承臺灣地區人民遺產，每人匯出金額不得逾新臺幣二百萬元之等值外幣，但大陸地區人民為我國國民配偶者不在此限"
+        },
+        {
+          "id": "B",
+          "text": "保險死亡給付、撫卹（慰）金、餘額退伍金總額，匯出金額不得逾新臺幣三百萬元之等值外幣"
+        },
+        {
+          "id": "C",
+          "text": "匯款人為大陸地區繼承人或在臺代理人。 〔銀行業受理對大陸地區匯出匯款及匯入匯款申報案件應確認事項〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-175",
+      "category": "外匯",
+      "number": 175,
+      "type": "multiple",
+      "question": "Standby L/C與Commercial L/C之差異，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "L/C未註明時，前者可撤銷，後者不可撤銷"
+        },
+        {
+          "id": "B",
+          "text": "前者以不動支為常態，後者以動支為常態"
+        },
+        {
+          "id": "C",
+          "text": "前者為保證債務之償還、契約之履行等，後者為支付貨款。 〔UCP 600第1條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-176",
+      "category": "外匯",
+      "number": 176,
+      "type": "multiple",
+      "question": "如信用狀要求〝insurance against all risks 〞（投保全險），銀行將接受下列何者之保險單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "含有任何〝all risks 〞（全險）之註記或條款之保險單據，不論其有無冠以〝全險〞之標題"
+        },
+        {
+          "id": "B",
+          "text": "保險單據含有任何〝 all risks 〞（全險 ）之註記或條款，即使其表明某些險別已排除"
+        },
+        {
+          "id": "C",
+          "text": "保險單據表明投保倫敦保險協會貨物條款ICC(A)。 〔UCP 600第28條及ISBP745 K18〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-177",
+      "category": "外匯",
+      "number": 177,
+      "type": "multiple",
+      "question": "匯出匯款pacs.008電文的匯款人相關欄位，應至少包含哪些資訊？",
+      "options": [
+        {
+          "id": "A",
+          "text": "匯款人姓名"
+        },
+        {
+          "id": "B",
+          "text": "扣款帳號或可查證該項匯款之「獨立序號」"
+        },
+        {
+          "id": "C",
+          "text": "匯款人地址。 〔108.6.24國業字第10800025881號、外匯匯出匯款標準作業流程(SOP)］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-178",
+      "category": "外匯",
+      "number": 178,
+      "type": "multiple",
+      "question": "有關私立就業服務機構代理外籍勞工結匯在臺薪資匯款(簡稱「外勞仲介代理匯款」)，以下敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "以逐筆匯款至各最終受款人帳戶之方式受理"
+        },
+        {
+          "id": "B",
+          "text": "為求作業效率，可以打包方式進行(即以單筆彙總金額方式結匯匯款至當地單一受款人帳戶，再由該受款人進行後續逐筆交付給外勞指定之最終受款人)"
+        },
+        {
+          "id": "C",
+          "text": "請客戶原則上於同一家分行進行代理外勞匯款，以利分行後續追蹤與持續監控作業。 〔108.8.27國業字第10800033991號］"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-179",
+      "category": "外匯",
+      "number": 179,
+      "type": "multiple",
+      "question": "如信用狀要求提示〝Inspection Certificate in duplicate〞，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "須提示一份正本及一份副本檢驗證明書"
+        },
+        {
+          "id": "B",
+          "text": "檢驗證明書簽發日期得晚於裝運日期，但不可遲於提示日"
+        },
+        {
+          "id": "C",
+          "text": "證明貨物已經檢驗，且資料內容不與其他規定單據相牴觸者，即視為符合信用狀之規定。 〔UCP 600第14條、17條及ISBP745 Q2〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-180",
+      "category": "外匯",
+      "number": 180,
+      "type": "multiple",
+      "question": "提示瑕疵單據遭開狀銀行拒付，實務上受益人可以補正或重新製作正確單據以替換原來瑕疵單據，以符合信用狀之條款，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "該替換單據須於信用狀有效期限內提示"
+        },
+        {
+          "id": "B",
+          "text": "替換之前須先取得開狀銀行之許可"
+        },
+        {
+          "id": "C",
+          "text": "須注意信用狀所規定之單據提示期間之限制。 〔UCP 600第6、14條〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-181",
+      "category": "外匯",
+      "number": 181,
+      "type": "multiple",
+      "question": "下列何者將構成單據瑕疵？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commercial Invoice另標示Sample的數量，但規定為免費（Free of charge）"
+        },
+        {
+          "id": "B",
+          "text": "Commercial Invoice另標示discount charge，但Net Amount不超過信用狀金額"
+        },
+        {
+          "id": "C",
+          "text": "Commercial Invoice表明信用狀規定之貿易條件所顯示之價值以外的費用或成本。 〔ISBP745 C7、C12〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-182",
+      "category": "外匯",
+      "number": 182,
+      "type": "multiple",
+      "question": "開狀銀行若決定拒付，則應注意",
+      "options": [
+        {
+          "id": "A",
+          "text": "若本筆單據係由其他分行代收再轉交本分行者，應自本分行收到單據後第5個營業日終了前迅速電傳通知拒付"
+        },
+        {
+          "id": "B",
+          "text": "於拒付電文中應敘明拒絕兌付"
+        },
+        {
+          "id": "C",
+          "text": "如寄單銀行於其 Covering Letter已列明一切瑕疵者，仍必須於拒付電文中應敘明有關之各項瑕疵。 〔UCP 600第16條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-183",
+      "category": "外匯",
+      "number": 183,
+      "type": "multiple",
+      "question": "依UCP600規定，銀行將接受下述何種性質之運送單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "表明貨物裝載或將裝載於甲板上"
+        },
+        {
+          "id": "B",
+          "text": "載有〝託運人自行裝貨點數〞及〝據託運人稱內裝〞之條款"
+        },
+        {
+          "id": "C",
+          "text": "以信用狀受益人以外之人為貨物之發貨人。 〔UCP 600第14、26條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-184",
+      "category": "外匯",
+      "number": 184,
+      "type": "multiple",
+      "question": "信用狀統一慣例中，有關信用狀之轉讓，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "銀行除依其明示同意之範圍及方式外，無義務轉讓信用狀"
+        },
+        {
+          "id": "B",
+          "text": "第二受益人可申請再作轉讓予隨後之任何受益人"
+        },
+        {
+          "id": "C",
+          "text": "除於轉讓當時另有約定外，有關轉讓所發生之ㄧ切費用（諸如手續費、規費、工本費或支出），須由第一受益人負擔。 〔UCP 600第38條〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-185",
+      "category": "外匯",
+      "number": 185,
+      "type": "multiple",
+      "question": "信用狀統一慣例中，有關款項之讓與，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "信用狀必須表示可轉讓之事實"
+        },
+        {
+          "id": "B",
+          "text": "係指受益人依準據法之規定，將其於該信用狀下可得或將得款項讓與之權利"
+        },
+        {
+          "id": "C",
+          "text": "該款項之讓與，與信用狀項下權利行使之讓與無關。 〔UCP 600第39條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-186",
+      "category": "外匯",
+      "number": 186,
+      "type": "multiple",
+      "question": "依「本行出口押匯額度管理辦法」/「本行進口押匯額度管理辦法」規定，出、進口押匯額度之核定",
+      "options": [
+        {
+          "id": "A",
+          "text": "應每年重新核定一次"
+        },
+        {
+          "id": "B",
+          "text": "申請人需用額度超過營業單位主管權限時，依授信作業程序專案報請總行核定"
+        },
+        {
+          "id": "C",
+          "text": "對資信良好、往來正常或提供足額擔保之客戶得二年核定一次。 〔臺灣銀行股份有限公司出、進口押匯額度管理辦法〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-187",
+      "category": "外匯",
+      "number": 187,
+      "type": "multiple",
+      "question": "信用狀及修改書之通知，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "通知銀行於收到完整且明確之指示後，即必須辦理該信用狀之通知"
+        },
+        {
+          "id": "B",
+          "text": "銀行受託通知信用狀或修改書，但選擇不通知時，則須將此意旨儘速告知所由收受信用狀、修改書或通知書之銀行"
+        },
+        {
+          "id": "C",
+          "text": "銀行受託通知信用狀或修改書，但無法確信該信用狀、修改書或通知書外觀之真實性時，則須將此意旨儘速告知外觀上顯示所由收受指示之銀行，若通知銀行或第二通知銀行仍選擇通知，則須告知受益人或第二通知銀行其無法確信該信用狀、修改書或通知書外觀之真實性。 〔UCP 600第9條〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-188",
+      "category": "外匯",
+      "number": 188,
+      "type": "multiple",
+      "question": "依「辦理銀行同業所開信用狀保兌作業要點」規定，本行保兌之對象，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "限與本行建有通匯關係者"
+        },
+        {
+          "id": "B",
+          "text": "世界銀行排名之認定，以英國「銀行家」雜誌最近一年按第一類資本額多寡之排名為準"
+        },
+        {
+          "id": "C",
+          "text": "未列入世界排名之銀行，不得敘作。 〔臺灣銀行股份有限公司辦理銀行同業所開信用狀保兌作業要點〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-189",
+      "category": "外匯",
+      "number": 189,
+      "type": "multiple",
+      "question": "依「辦理銀行同業所開信用狀保兌作業要點」規定，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "辦理本業務之各同業最高額度及其國家風險額度(本國同業除外)控管事宜，由國際部統籌辦理"
+        },
+        {
+          "id": "B",
+          "text": "各營業單位擬承作時，應先電洽國際部核配額度後辦理"
+        },
+        {
+          "id": "C",
+          "text": "若保兌對象未與本行建有通匯關係，由營業單位簽具擬承作意見，提報國際部依各核定階層授權額度核定。 〔臺灣銀行股份有限公司辦理銀行同業所開信用狀保兌作業要點〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-190",
+      "category": "外匯",
+      "number": 190,
+      "type": "multiple",
+      "question": "如信用狀規定Payment under reserve prohibited，而出口商之單據又有瑕疵，則押匯銀行宜以何種方式處理單據？",
+      "options": [
+        {
+          "id": "A",
+          "text": "由受益人出具切結書而給予融通辦理押匯"
+        },
+        {
+          "id": "B",
+          "text": "電詢開狀銀行，俟授權後再辦理押匯"
+        },
+        {
+          "id": "C",
+          "text": "先寄單據，俟開狀行付款後再行撥款。 〔外匯實務〕"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-191",
+      "category": "外匯",
+      "number": 191,
+      "type": "multiple",
+      "question": "若單據之提示經審核後決定係屬符合，則",
+      "options": [
+        {
+          "id": "A",
+          "text": "開狀銀行必須為兌付"
+        },
+        {
+          "id": "B",
+          "text": "保兌銀行必須為兌付或讓購，並將單據寄送開狀銀行"
+        },
+        {
+          "id": "C",
+          "text": "指定銀行於兌付或讓購後應將單據寄送保兌銀行或開狀銀行。 〔UCP 600第15條〕"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-192",
+      "category": "外匯",
+      "number": 192,
+      "type": "multiple",
+      "question": "有關本行臺外幣現鈔兌換機之作業方式，下列敘述何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "新臺幣現鈔兌換外幣現鈔"
+        },
+        {
+          "id": "B",
+          "text": "外幣現鈔兌換新臺幣現鈔"
+        },
+        {
+          "id": "C",
+          "text": "持本國銀行晶片金融卡結購提領外幣現鈔，並自該卡所屬新臺幣帳戶內自動扣取等值新臺幣款項。 ［臺灣銀行股份有限公司臺外幣現鈔兌換機作業要點］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-193",
+      "category": "外匯",
+      "number": 193,
+      "type": "multiple",
+      "question": "本行辦理外匯業務之經辦及覆核人員，應符合中央銀行「銀行業辦理外匯業務管理辦法」第11條規定資格，下列敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "經辦人員應有外匯業務執照或具備三個月以上相關外匯業務經歷"
+        },
+        {
+          "id": "B",
+          "text": "覆核人員應有外匯業務執照或具備八個月以上相關外匯業務經歷"
+        },
+        {
+          "id": "C",
+          "text": "上開辦法所稱外匯業務包含買賣外幣現鈔及旅行支票業務。 ［銀行業辦理外匯業務管理辦法第11條］"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-194",
+      "category": "外匯",
+      "number": 194,
+      "type": "multiple",
+      "question": "受理OBU外匯存款之開戶業務，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "境外法人開戶時須確認由負責人親自辦理，且印鑑卡須經負責人親簽"
+        },
+        {
+          "id": "B",
+          "text": "自然人證件影本須加蓋「限辦理臺灣銀行開戶使用」、「核與正本相符」及經辦私章"
+        },
+        {
+          "id": "C",
+          "text": "對註冊地設有註冊代理人制度之境外公司，於確認身分時，須取得法人註冊地之當地註冊代理人六個月內簽發之董事職權證明書。 〔OBU外匯存款業務-開戶標準作業流程SOP］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-195",
+      "category": "外匯",
+      "number": 195,
+      "type": "multiple",
+      "question": "國際金融業務分行辦理外匯存款，不得有下列何行為？",
+      "options": [
+        {
+          "id": "A",
+          "text": "收受外幣現金"
+        },
+        {
+          "id": "B",
+          "text": "准許以外匯存款兌換為新臺幣提取"
+        },
+        {
+          "id": "C",
+          "text": "匯往國內金融機構。 ［國際金融業務條例-金融監督管理委員會］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-196",
+      "category": "外匯",
+      "number": 196,
+      "type": "multiple",
+      "question": "下列何者應填報最新版的「外匯相關交易審查檢視表」作為無傳票附件，必要時檢附資金來源與用途之佐證資料備查?",
+      "options": [
+        {
+          "id": "A",
+          "text": "OBU多筆帳戶客戶"
+        },
+        {
+          "id": "B",
+          "text": "OBU高風險客戶匯入/出匯款"
+        },
+        {
+          "id": "C",
+          "text": "OBU匯出匯款之受款人為個人帳戶。 〔OBU外匯存款業務-開戶標準作業流程SOP］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-197",
+      "category": "外匯",
+      "number": 197,
+      "type": "multiple",
+      "question": "辨識OBU外匯存款開戶需求合理性，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "須觀察與瞭解OBU客戶開戶動機及目的，列印並填寫「OBU認識客戶」須確實填寫開戶目的"
+        },
+        {
+          "id": "B",
+          "text": "對於短期間密集開立多個帳戶或留存相同通訊地址等情事，應審慎評估並說明，必要時徵提佐證資料"
+        },
+        {
+          "id": "C",
+          "text": "短期間於聯徵中心被查詢次數頻繁者，應審慎評估並說明。 ［OBU外匯存款業務─開戶標準作業流程］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-198",
+      "category": "外匯",
+      "number": 198,
+      "type": "multiple",
+      "question": "目前買賣即期外匯交割日可為",
+      "options": [
+        {
+          "id": "A",
+          "text": "交易當日"
+        },
+        {
+          "id": "B",
+          "text": "次一營業日"
+        },
+        {
+          "id": "C",
+          "text": "次二營業日。 ［本行買賣即期外匯處理要點］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-199",
+      "category": "外匯",
+      "number": 199,
+      "type": "multiple",
+      "question": "客戶辦理買賣新台幣對外幣間遠期外匯需符合之條件為",
+      "options": [
+        {
+          "id": "A",
+          "text": "有實際外匯收支需求"
+        },
+        {
+          "id": "B",
+          "text": "美金1萬元以上"
+        },
+        {
+          "id": "C",
+          "text": "實際交易證明文件。 ［本行買賣遠期外匯/換匯作業要點］"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-200",
+      "category": "外匯",
+      "number": 200,
+      "type": "multiple",
+      "question": "客戶辦理遠期外匯業務應",
+      "options": [
+        {
+          "id": "A",
+          "text": "倘客戶從未申請信用額度，可逐筆徵提3%履約擔保"
+        },
+        {
+          "id": "B",
+          "text": "事先申請信用額度循環動用"
+        },
+        {
+          "id": "C",
+          "text": "逐筆徵提3%履約擔保本票備償。 ［本行買賣遠期外匯/換匯作業要點］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-201",
+      "category": "外匯",
+      "number": 201,
+      "type": "multiple",
+      "question": "客戶辦理遠期外匯展期時，應依當時之匯率重新議定",
+      "options": [
+        {
+          "id": "A",
+          "text": "客戶有匯率差價損失，必須先補收差額"
+        },
+        {
+          "id": "B",
+          "text": "客戶有匯率差價利益則予退還"
+        },
+        {
+          "id": "C",
+          "text": "客戶有匯率差價利益則予掛帳待交割時再退還。 ［本行買賣遠期外匯/換匯作業要點］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-202",
+      "category": "外匯",
+      "number": 202,
+      "type": "multiple",
+      "question": "有關外幣組合式商品的敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "是一種結合外幣固定收益與利率或匯率等衍生性商品之投資理財產品"
+        },
+        {
+          "id": "B",
+          "text": "連結匯率之保本型組合式商品係連結“買入”匯率型選擇權"
+        },
+        {
+          "id": "C",
+          "text": "屬存款保險保障之範圍"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-203",
+      "category": "外匯",
+      "number": 203,
+      "type": "multiple",
+      "question": "有關建立組合式商品業務關係時應注意之事項，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "應向法人客戶徵提「衍生性金融商品交易授權書」"
+        },
+        {
+          "id": "B",
+          "text": "客戶需簽署組合式商品契約書及風險預告書一式二份，客戶和營業單位各執一份"
+        },
+        {
+          "id": "C",
+          "text": "營業單位應就當時可取得之資訊，於分行整合服務系統進行「Z1230客戶往來風險評級」完成客戶風險評級作業。 ［營業單位辦理組合式商品標準作業流程］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-204",
+      "category": "外匯",
+      "number": 204,
+      "type": "multiple",
+      "question": "受理客戶以清單型式辦理遠期外匯交易，應注意事項何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "客戶須於清單具結所載資料均屬實及用印"
+        },
+        {
+          "id": "B",
+          "text": "應檢附清單所列前 3 大金額之交易證明文件"
+        },
+        {
+          "id": "C",
+          "text": "應於清單註明使用金額情形並簽章(含訂約日期、已使用金額、扣除當筆交易後尚可使用金額)。 ［銀行業辦理外匯收支或交易資料申報問答集］"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    },
+    {
+      "id": "subject-3-205",
+      "category": "外匯",
+      "number": 205,
+      "type": "multiple",
+      "question": "有關組合式商品交易之敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "單位經理屬本行交易利害關係人，不可辦理交易條件標準化之公開募集組合式商品交易"
+        },
+        {
+          "id": "B",
+          "text": "辦理組合式商品客戶風險屬性評估作業人員與向客戶推介組合式商品之人員不得為同一人"
+        },
+        {
+          "id": "C",
+          "text": "自然人客戶辦理不保本組合式商品，首次交易前需進行專人解說並錄音以留存紀錄。 ［營業單位辦理組合式商品標準作業流程］ PAGE 外匯第 PAGE 11 頁，共 NUMPAGES 20 頁 外匯第 PAGE 1 頁，共 NUMPAGES 20 頁"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "source": "第3篇-外匯(115年).doc"
+    }
+  ]
+}

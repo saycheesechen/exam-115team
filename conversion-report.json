@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-08-19T10:56:55.776388+00:00",
+  "sourceFiles": 10,
+  "questionCount": 2089,
+  "duplicateIds": [],
+  "files": [
+    {
+      "source": "第1篇-存匯(115年).docx",
+      "parsed": 468,
+      "errors": 0
+    },
+    {
+      "source": "第2篇-授信(115年).doc",
+      "parsed": 500,
+      "errors": 0
+    },
+    {
+      "source": "第3篇-外匯(115年).doc",
+      "parsed": 205,
+      "errors": 0
+    },
+    {
+      "source": "第4篇-會計(115年).doc",
+      "parsed": 100,
+      "errors": 0
+    },
+    {
+      "source": "第5篇-理財(115年).docx",
+      "parsed": 200,
+      "errors": 0
+    },
+    {
+      "source": "第6篇-信託(115年).doc",
+      "parsed": 100,
+      "errors": 0
+    },
+    {
+      "source": "第7篇-金融法務常識(115年).doc",
+      "parsed": 166,
+      "errors": 0
+    },
+    {
+      "source": "第8篇-數位金融(115年).doc",
+      "parsed": 160,
+      "errors": 0
+    },
+    {
+      "source": "第9篇-電腦常識(115年).docx",
+      "parsed": 140,
+      "errors": 0
+    },
+    {
+      "source": "第10篇-企業永續發展(115年).doc",
+      "parsed": 50,
+      "errors": 0
+    }
+  ],
+  "errors": []
+}

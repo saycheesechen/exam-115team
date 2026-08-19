@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-08-19T10:56:55.776388+00:00",
+  "questionCount": 2089,
+  "categories": [
+    {
+      "id": "subject-1",
+      "name": "存匯",
+      "count": 468,
+      "singleCount": 374,
+      "multipleCount": 94
+    },
+    {
+      "id": "subject-2",
+      "name": "授信",
+      "count": 500,
+      "singleCount": 400,
+      "multipleCount": 100
+    },
+    {
+      "id": "subject-3",
+      "name": "外匯",
+      "count": 205,
+      "singleCount": 164,
+      "multipleCount": 41
+    },
+    {
+      "id": "subject-4",
+      "name": "會計",
+      "count": 100,
+      "singleCount": 80,
+      "multipleCount": 20
+    },
+    {
+      "id": "subject-5",
+      "name": "理財",
+      "count": 200,
+      "singleCount": 160,
+      "multipleCount": 40
+    },
+    {
+      "id": "subject-6",
+      "name": "信託",
+      "count": 100,
+      "singleCount": 80,
+      "multipleCount": 20
+    },
+    {
+      "id": "subject-7",
+      "name": "金融法務常識",
+      "count": 166,
+      "singleCount": 133,
+      "multipleCount": 33
+    },
+    {
+      "id": "subject-8",
+      "name": "數位金融",
+      "count": 160,
+      "singleCount": 128,
+      "multipleCount": 32
+    },
+    {
+      "id": "subject-9",
+      "name": "電腦常識",
+      "count": 140,
+      "singleCount": 112,
+      "multipleCount": 28
+    },
+    {
+      "id": "subject-10",
+      "name": "企業永續發展",
+      "count": 50,
+      "singleCount": 40,
+      "multipleCount": 10
+    }
+  ]
+}
